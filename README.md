@@ -1,8 +1,7 @@
-
 # memewa.rs <--> SKALE  (integration + thoughts)
 
  ***tl;dr*:** 
-- 	**Memewars** (Ethereum dApp + internet-experiment, *relies on a SKALE sidechain for tx throughput *) 
+- 	**Memewars** (Ethereum dApp + internet-experiment, *relies on a SKALE sidechain for tx throughput*) 
 	-  **a *gladiator arena* for viral content (or: a platform for 24/7 *meme sweepstakes*), itself designed to go viral using incentive-engineering, fun, and meme-battles**. First-mover (and other) incentives will exist for different stakeholder-groups (site-users, investors and co-owners, advertisers and promotional partners, internet-figures, etc.) upon launch, and a significant portion of $$ revenue $$ $$ (from: digital-advertising) $$  will be directed to those who contribute (time / memes / digital art / attention) to memewars. **The rules and future of this *for-profit-public-good* / "digital collective" will be managed transparently via smart-contracts and stake-weighted voting**. **[Get details + updates here](https://trello.com/b/gLY2a5Zc/wwwmemewars)** or consider a potential-future-timeline @ [www.memewa.rs](https://www.memewa.rs)
 
 	

@@ -11,6 +11,10 @@
   margin: 0 auto;
 }
 
+body {
+  background-color: #171941;
+}
+
 header {
   width: 300px;
   background-color: transparent; // TODO: tempo-rary
@@ -27,15 +31,15 @@ header {
   }
 }
 
-body {
-  background-color: #171941;
+section {
+  width: 75%;
+  float: right;
+  padding-bottom: 50px;
+  color: #ffffff78;
 }
 
-section {
-    width: 75%;
-    float: right;
-    padding-bottom: 50px;
-    color: #ffffff78;
+footer {
+    display: none 
 }
 
 strong {
@@ -48,8 +52,3 @@ strong {
   padding: 15px;
   color: #020000;
 }
-
-footer {
-  display: none 
-}
-

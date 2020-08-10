@@ -1,15 +1,16 @@
+
 # memewa.rs <--> SKALE  (integration + thoughts)
 
  ***tl;dr*:** 
-- 	**Memewars** (Ethereum dApp + internet-experiment, *relies on a SKALE sidechain for throughput requirements*) 
+- 	**Memewars** (Ethereum dApp + internet-experiment, *relies on a SKALE sidechain for tx throughput *) 
 	-  **a *gladiator arena* for viral content (or: a platform for 24/7 *meme sweepstakes*), itself designed to go viral using incentive-engineering, fun, and meme-battles**. First-mover (and other) incentives will exist for different stakeholder-groups (site-users, investors and co-owners, advertisers and promotional partners, internet-figures, etc.) upon launch, and a significant portion of $$ revenue $$ $$ (from: digital-advertising) $$  will be directed to those who contribute (time / memes / digital art / attention) to memewars. **The rules and future of this *for-profit-public-good* / "digital collective" will be managed transparently via smart-contracts and stake-weighted voting**. **[Get details + updates here](https://trello.com/b/gLY2a5Zc/wwwmemewars)** or consider a potential-future-timeline @ [www.memewa.rs](https://www.memewa.rs)
 
 	
 - **SKALE** (*Ethereum-compatible* "elastic" *sidechains*, for the scaling of "dApps")
 	-  **SKALE Unlocks a category of *decentralized applications* ("dApps") that are theoretically possible (and often intuitive), especially ( websites / dApps / systems ) that promise a clear benefit over their closest [ legacy / "Web 2.0" / centralized ] *contemporary*. Ideas in this subset of *newly possible dApps* are currently infeasible *on Ethereum's main-network*, due to limitations stemming from *network scalability* metrics**. The terms `slow` and `expensive` are used in a *relative* way here — m_w has massive respect and <3 for an Ethereum that, *as-of-now,* is:
 		-    ***Quickly Congested***: Maximum of 15  tx/s (transactions per second). A transaction or digital signature (or both) is behind most"Web3" interactions (sending a token, invoking a smart-contract function, etc).   *For context: Visa claimed [a capacity for 56,000 tx/s in 2015](https://usa.visa.com/dam/VCOM/download/corporate/media/visa-fact-sheet-Jun2015.pdf)*
-		-   ***Slow***: Minimum time needed to confirm a transaction is ~15 seconds (*blocktime*: average time-elapsed between finalized blocks. In other words: *longest possible duration before your tx can be "trusted" by other rational actors on Ethereum, after being sent from your computer*)
-		- ***Expensive***: on-chain data-storage (permanently storing: user-content, interaction-history, mappings of Ethereum addresses to roles and balances) and computation (for example: a *for-loop* over a hypothetical 1M+ collection of user-profiles, registered in a `mapping` belonging to the smart-contracts of a given "dApp") 
+			-   ***Slow***: Minimum time needed to confirm a transaction is ~15 seconds (*blocktime*: average time-elapsed between finalized blocks. In other words: *longest possible duration before your tx can be "trusted" by other rational actors on Ethereum, after being sent from your computer*)
+			- ***Expensive***: on-chain data-storage (permanently storing: user-content, interaction-history, mappings of Ethereum addresses to roles and balances) and computation (for example: a *for-loop* over a hypothetical 1M+ collection of user-profiles, registered in a `mapping` belonging to the smart-contracts of a given "dApp") 
 
 SKALE offers a sidechain solution to this thorny issue of scalability — **in essence: a "private" group of blockchain validators, who track transactions and changes in *contract-state* as all Ethereum validators do, but only for events (transactions) relevant to a specific dApp (memewars, in this case).** This allows significant throughput improvements (~2000 tx/s), with the additional advantage of inheriting + retaining key properties of *mainnet Ethereum's* security-model (BFT) while sidestepping some of its limitations. 
 

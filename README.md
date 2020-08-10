@@ -1,4 +1,3 @@
-
 # memewa.rs <--> SKALE  (integration + thoughts)
 
  ***tl;dr*:** 
@@ -7,61 +6,56 @@
 
 	
 - **SKALE** (*Ethereum-compatible* "elastic" *sidechains*, for the scaling of "dApps")
-	-  **SKALE Unlocks a category of *decentralized applications* ("dApps") that are theoretically possible (and often intuitive), especially ( websites / dApps / systems ) that promise a clear benefit over their closest [ legacy / "Web 2.0" / centralized ] *contemporary*. Ideas in this subset of *newly possible dApps* are currently infeasible *on Ethereum's main-network*, due to bottlenecks and limitations surrounding *network scalability***. The terms `slow` and `expensive` are used in a *relative* way here — m_w has massive respect and <3 for an Ethereum that, *as-of-now,* is:
+	-  **SKALE Unlocks a category of *decentralized applications* ("dApps") that are theoretically possible (and often intuitive), especially ( websites / dApps / systems ) that promise a clear benefit over their closest [ legacy / "Web 2.0" / centralized ] *contemporary*. Ideas in this subset of *newly possible dApps* are currently infeasible *on Ethereum's main-network*, due to limitations stemming from *network scalability* metrics**. The terms `slow` and `expensive` are used in a *relative* way here — m_w has massive respect and <3 for an Ethereum that, *as-of-now,* is:
 		-    ***Quickly Congested***: Maximum of 15  tx/s (transactions per second). A transaction or digital signature (or both) is behind most"Web3" interactions (sending a token, invoking a smart-contract function, etc).   *For context: Visa claimed [a capacity for 56,000 tx/s in 2015](https://usa.visa.com/dam/VCOM/download/corporate/media/visa-fact-sheet-Jun2015.pdf)*
-			
-			-   ***Slow***: Minimum time needed to confirm a transaction is ~15 seconds (*blocktime*: average time-elapsed between finalized blocks. In other words: *longest possible duration before your tx can be "trusted" by other rational actors on Ethereum, after being sent from your computer*)
-			- ***Expensive***: on-chain data-storage (permanently storing: user-content, interaction-history, mappings of Ethereum addresses to roles and balances) and computation (for example: a *for-loop* over a hypothetical 1M+ collection of user-profiles, registered in a `mapping` belonging to the smart-contracts of a given "dApp") 
+		-   ***Slow***: Minimum time needed to confirm a transaction is ~15 seconds (*blocktime*: average time-elapsed between finalized blocks. In other words: *longest possible duration before your tx can be "trusted" by other rational actors on Ethereum, after being sent from your computer*)
+		- ***Expensive***: on-chain data-storage (permanently storing: user-content, interaction-history, mappings of Ethereum addresses to roles and balances) and computation (for example: a *for-loop* over a hypothetical 1M+ collection of user-profiles, registered in a `mapping` belonging to the smart-contracts of a given "dApp") 
 
 SKALE offers a sidechain solution to this thorny issue of scalability — **in essence: a "private" group of blockchain validators, who track transactions and changes in *contract-state* as all Ethereum validators do, but only for events (transactions) relevant to a specific dApp (memewars, in this case).** This allows significant throughput improvements (~2000 tx/s), with the additional advantage of inheriting + retaining key properties of *mainnet Ethereum's* security-model (BFT) while sidestepping some of its limitations. 
 
 In sum: a whole dimension of *theoretical dApps*, of which memewars is only one example — ranging from *the fun* to *the useful*, across the design-space of games, co-ordination tools, hackable templates, composable "money legos", experiments in economics and governance, etc. —  is about to enter *the realm "of the newly feasible"* thanks to SKALE and many other OSS efforts that are making Ethereum more usable (for devs and "normal" people alike) every day.
 
-We're just in time to witness the rise of the internet *as a jurisdiction* — a global technology infrastructure under-girded by math, contributing in general to a (well-underway but too-slow) global megatrend of increasing prosperity and justice, offering access to tools and services which generally advance the causes of transparency and justice . The tireless efforts and long-term visions of many open-source-software (OSS) developers around the world have kicked off an ever-multipliying Cambrian explosion of [ technical / financial / artistic / ... ] creativity,  magnified further by the un-tapped power to be found in the unprecendented  alignment (and *engineering*) of incentives among people on the internet, even those who have never met or who actively distrust one-another.
+We're just in time to witness the rise of the internet *as a jurisdiction* — a global technology infrastructure under-girded by math, contributing in general to a (well-underway but too-slow) global megatrend of increasing prosperity and justice, offering access to tools and services which generally advance the causes of transparency and justice . The tireless efforts and long-term visions of many open-source-software (OSS) developers around the world have kicked off an ever-multipliying Cambrian explosion of [ technical / financial / artistic / ... ] creativity,  magnified further by the unprecendented gains to be made with the alignment (and *engineering*) of incentives among people (even anonymous, or mutually-distrusting) on the internet.
 
- All of this is happening on Ethereum, right now — It's time to pay attention, and in the meantime we'd love to hear what you think of [**www.memewa.rs**](https://www.memewa.rs). 
-
-	  
+ All of this is happening on Ethereum, right now — It's time to pay attention to Web3, and in the meantime we'd love to hear what you think of [**www.memewa.rs**](https://www.memewa.rs). 
 
 
-				  
+## In-depth: SKALE + m_w Integration — (motivation, experience) 
 
+**Takeaway**: SKALE has been an absolute joy to collaborate with, and has been a great partner for m_W.
 
+**Details (WIP)**:
 
-	 
+- m_w's "Web3" *Tech-Stack*
+	- s
+- How does SKALE interact with <Torus, 3Box, Metamask, etc.> ? 
 
-## In-depth: Ethereum in 2020 - dev tools, resources, and remaining frictions (WIP)
+## In-depth: Ethereum in 2020 - dev tools, learning resources, and remaining frictions (WIP)
 
-- WIP
-- 
-
-## In-depth: SKALE + m_w Integration — (motivation, experience) integration (WIP)
-
-**Takeaway**: SKALE has been an absolute joy to collaborate with, and has been a great partner for m_W. 
-
-which drive demand for bandwith on *mainnet* an in-demand security-model, which stems from — and enables — decentralization and organizations/systems which are [ trustless / verifiable / stakeholder-governed / *for-profit* and/or online *"public goods"* ], which could allow our current expectations about "Web2" experiences (today's centralized platforms, like Facebook and Mastercard) to be achieved by "Web3" / Ethereum applications TODO: with the advantages of open-source + privacy-preserving (TODO: in addition to the properties mentioned above), and these dApps could increasingly be anything: randing from games / payment-technology and "Web3"/OSS alternatives to present-day "high-frequency" centralized-systems / new structures and "programmable money" primitives, which are building blocks for innovation in the space of: collective organization / distributed (and digital) governance / economic experimentation / policy design / previously-impossible arrangements and derivatives/financial-instruments
-		  - Unlocks a category of Ethereum "dApps" in *"the space of possible decentralized applications"*, which are often conceptually simple, but infeasible (on main-network Ethereum) due to one or both of the following:
-			  - Transaction-throughput limitations: Ethereum's max *TPS* (transactions, or "tx" per second) is currently 15, but if you were trying to create a new voting system or some credit-card-alternative, it would need to process more than 15 *interactions* (Ethereum txs) per second to.
-
-
-## Ethereum in 2020 (seems inevitably the future) 
-
-- The End of History Quote
-
---
-FROM TOP:
-Since the earliest days of Ethereum (launched in 2015), forward-seeing people have imagined a world of *decentralized applications* ("dApps") which
-
- shift the balance of internet-power back towards the individual and enable digital "trust at a distance:. TODO: dApp properties and examples. Many of these ideas were (and are) great, but many would require more-frequent + less-expensive access to the public blockchain (Ethereum main-network) than is currently possible. 
- 
+### dev tools
  ---
-
 In the context of Ethereum and "Web3", a number of OSS **dev tools** have been crucial in enabling novel (and increasingly user-facing) Ethereum "dApps" (decentralized applications). The challenge of creating a fully-functional Ethereum application (+ associated front-end) remains considerable today, but has fallen drastically (likely by an order of magnitude) and continues to trend downwards with every additional **dev tool** that *abstracts away* some intricacy or detail, allowing someone like me (a medium-smart AI) to enjoy well-documented software relating to:
 
  - Designing, Testing, and Deploying Smart Contracts
  - Onboarding Users to "dApps"
 
+M_W wants to give a shoutout (and big thanks) to the following OSS:
+  - Torus 
+  - 3box
+  - Truffle-Suite
+  - (WIP) - many more
+
+
+### learning / resources
+---
+WIP
+
+### remaining frictions / areas I struggled
+---
+WIP
+
 
 ## Further Details / Explorations / Reading
 
 - For a more in-depth exploration of game-theoretic implications of Ethereum / the potential for large-scale incentive-alignment enforced by smart-contracts, [see Virgil Griffith's writing](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8).
+- WIP

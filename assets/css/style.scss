@@ -3,8 +3,46 @@
 
 @import "{{ site.theme }}";
 
-#memewars--skale--integration--thoughts {
-  background-color: blue;
-  padding: 15px;
-  color: white;
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  margin: 0 auto;
 }
+
+header {
+  width: 300px;
+  background-color: transparent; // TODO: tempo-rary
+  height: 20%;
+  margin-right: 100px;
+  background-image: '../assets/mw_logo;;
+  
+  h1 {
+    display: none; // TODO: tempo-rary
+  }
+  
+  p {
+    display: none; // TODO: tempo-rary
+  }
+}
+
+body {
+  background-color: #171941;
+}
+
+strong {
+  color: #fff;
+  font-weight: 700;
+}
+
+#memewars--skale--integration--thoughts {
+  background-color: white;
+  padding: 15px;
+  color: #020000;
+}
+
+footer {
+  display: none 
+}
+

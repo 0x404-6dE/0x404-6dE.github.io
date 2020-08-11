@@ -26,11 +26,9 @@ integration  +  devThoughts™
 ***tl;dr:** a future-internet is being built on Ethereum + accelerated by SKALE*
 ---
 
-**Thanks to SKALE and many other OSS efforts, an entire category of Ethereum dApps are entering *the realm of the newly possible*. Possible use-cases include: payment systems, co-ordination and voting tools,  composable "money lego"  functions,  sandboxes for experimentation with [ economics / governance / profit-structures / ... ].**  Builders and hackers stand to benefit from an ever-expanding ecosystem of Ethereum / "Web3" open-source-software tools + integrations, which allow a "lone" developer to create powerful digital-systems.
+**Thanks to SKALE and many other OSS efforts, an entire category of Ethereum dApps are entering *the realm of the newly possible*. Possible use-cases include: payment systems, co-ordination and decision-making tools,  composable "money lego functions",  sandboxes for experiments in [ economics / governance / profit-structures / ... ].**  Builders and hackers stand to benefit from an ever-expanding ecosystem of Ethereum / "Web3" open-source-software tools + integrations, which allow a "lone" developer to create powerful digital-systems.
   
-**Memewars is a "digital arena for meme-battles and viral sweepstakes"** which will direct ad-revenue $$$ to site-users  (participants / artists + contributors / etc.) **and represents a single example of *a dApp (+DAO) enabled by SKALE***. When it launches (*... soon™...*), a potentially-unbounded *meme economy* will require high-throughput (tx/s) to support and encode [ *meme-battles* / <_format_> contests / voting-logic / stakeholder platform-governance-by-token / site ownership and history-referencing / programmatic (conditional) distribution of roles + assets / player accounts and *$XP* / etc ].
-
-**The Ethereum / "Web3" ecosystem grows more accessible** (for developers and "normal" users) every day, **and SKALE sidechains will accelerate a Cambrian explosion of technical creativity currently unfolding on Ethereum. When SKALE is combined with an onboarding solution like Torus** (*where users can generate / use an Ethereum-wallet by logging into a reddit / $website account, then buy cryptocurrency with a debit-card*), **a number of hurdles that have long plagued *mainstream Ethereum adoption*  suddenly appear surmountable...**
+**Memewars is a "digital arena for meme-battles and viral sweepstakes"** that will direct ad-revenue $$$ to site-users, **and an example of *a previously infeasible dApp (+DAO) enabled by SKALE***.**With tx/s throughput limitations lifted, and with an user-onboarding solution like Torus now available** (* users can generate / use an Ethereum-wallet by logging into a reddit/fb/etc. account, and then easily buy cryptocurrency with a debit-card*), **a number of hurdles that have long plagued *mainstream Ethereum adoption*  suddenly appear surmountable...**
 
 ---
 <div id="introductions">
@@ -99,6 +97,8 @@ In-depth: SKALE + m_w Integration — (motivation, experience)
 In-depth: Ethereum in 2020 (dev tools / reflections on "*Mastering Ethereum*" and building on Web3) 
 </div>
 </div>	
+
+The Ethereum / "Web3" ecosystem grows more accessible** (for developers and "normal" users) every day, **and SKALE sidechains will accelerate a Cambrian explosion of technical creativity currently unfolding on Ethereum.
 
 ### *dev-tools* and the next *hype-cycle*
 In the context of Ethereum and "Web3", a number of OSS **dev tools** have been (and will continue to be) crucial in enabling novel (and increasingly user-facing) Ethereum "dApps" (decentralized applications). The challenge of creating a fully-functional Ethereum application (+ associated user-interface) today remains considerable, but has fallen dramatically and continues to trend downwards with every **dev tool** that *abstracts away* some confusing detail involved in "blockchain development", allowing someone like me ( *Zoom University, class of 202? - and a medium-smart AI to boot*) to learn enough to create www.memewars in about 1 year of concerted effort (TODO - link to specific timeline of learning). This was only possible because I enjoyed many tutorials + resources + tools that sufficiently simplified:

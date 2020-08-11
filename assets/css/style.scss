@@ -6,11 +6,11 @@
 .wrapper {
   display: flex;
    flex-direction: row;
+  flex-wrap: wrap;
 // //   flex-direction: column;
 //   justify-content: space-evenly;
-  
   justify-content: center;
-//   align-items: center;
+  justify-content: space-evenly;
   width: 100%;
   margin: 0 auto;
 }
@@ -54,6 +54,8 @@ header {
 background: #171941;
 box-shadow:  12px 12px 22px #121433, 
              -12px -12px 22px #1c1f4f;
+  
+  position: unset;
   
   h1 {
     display: none; // TODO: tempo-rary

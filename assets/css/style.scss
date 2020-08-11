@@ -243,15 +243,27 @@ pre {
 //     background-size: contain;
 //     background-blend-mode: soft-light;
   
+//       font-size: 1.35em;
+//     display: flex;
+//     flex-direction: row;
+//     justify-content: flex-start;
+//     margin-top: 20px;
+//     margin-bottom: 20px;
+//     background: #171941;
+//     padding-top: 10px;
+//     padding-bottom: 10px;
+//     padding-left: 0px;
+//     color: #ff9901;
+  
       font-size: 1.35em;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     background: #171941;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
     padding-left: 0px;
     color: #ff9901;
   

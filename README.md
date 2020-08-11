@@ -1,43 +1,51 @@
 
-# memewa.rs <--> SKALE  (integration details + *dev-thoughts*)
+# www.memewa.rs <--> SKALE  (integration + *devThoughts™*)
 <pre>                           
-			  __  __ ___ __  __ _____      ___   ___  ___     _     ___ _  __   _   _    ___ 
-			 |  \/  | __|  \/  | __\ \    / /_\ | _ \/ __|  _| |_  / __| |/ /  /_\ | |  | __|
-			 | |\/| | _|| |\/| | _| \ \/\/ / _ \|   /\__ \ |_   _| \__ \ ' <  / _ \| |__| _| 
-			 |_|  |_|___|_|  |_|___| \_/\_/_/ \_\_|_\|___/   |_|   |___/_|\_\/_/ \_\____|___|
-                 
+                       __      __                 __                  ____        __  __      ______      __         ____                                          _    
+ /'\_/`\              /\ \  __/\ \               /\ \                /\  _`\     /\ \/\ \    /\  _  \    /\ \       /\  _`\                _______               /'_`\  
+/\      \             \ \ \/\ \ \ \              \_\ \___            \ \,\L\_\   \ \ \/'/'   \ \ \L\ \   \ \ \      \ \ \L\_\             /\______\             /\_\/\`\
+\ \ \__\ \             \ \ \ \ \ \ \            /\___  __\            \/_\__ \    \ \ , <     \ \  __ \   \ \ \  __  \ \  _\L             \/______/_            \/_//'/'
+ \ \ \_/\ \             \ \ \_/ \_\ \           \/__/\ \_/              /\ \L\ \   \ \ \\`\    \ \ \/\ \   \ \ \L\ \  \ \ \L\ \             /\______\              /\_\ 
+  \ \_\\ \_\             \ `\___x___/               \ \_\               \ `\____\   \ \_\ \_\   \ \_\ \_\   \ \____/   \ \____/             \/______/              \/\_\
+   \/_/ \/_/  _______     '\/__//__/                 \/_/                \/_____/    \/_/\/_/    \/_/\/_/    \/___/     \/___/                                      \/_/
+             /\______\                                                                                                                                                  
+             \/______/
 </pre>
+
+***tl;dr***
+---
+
+**Thanks to SKALE and many other OSS efforts, an entire category of Ethereum applications are entering the realm of *newly possible dApps*. Possible use-cases include: payment systems, co-ordination and voting tools,  composable "money lego"  functions,  sandboxes for experimentation with [ economics / governance / profit-structures / ... ].**  Builders and hackers stand to benefit from an ever-expanding ecosystem of Ethereum / "Web3" open-source-software tools + integrations, which allow a "lone" developer to create powerful digital-systems.
+  
+**Memewars is a "digital arena for meme-battles and viral sweepstakes"** which will direct ad-revenue $$$ to site-users  (participants / artists + contributors / etc.) **and a single example of *a dApp (+DAO) enabled by SKALE***. When it launches (*... soon™...*), a potentially-unbounded *meme economy* will require high-throughput (tx/s) to support and encode [ *meme-battles* / <_format_> contests / voting-logic / stakeholder platform-governance-by-token / site ownership and history-referencing / programmatic (conditional) distribution of roles + assets / player accounts and *$XP* / etc ].
+
+**The Ethereum / "Web3" ecosystem grows more accessible** (for developers and "normal" users) every day, **and SKALE sidechains will accelerate a Cambrian explosion of technical creativity currently unfolding on Ethereum. When SKALE is combined with an onboarding solution like Torus** (*where users can generate / use an Ethereum-wallet by logging into a reddit / $website account, then buy cryptocurrency with a debit-card*), **a number of hurdles that have long plagued *mainstream Ethereum adoption*  suddenly appear surmountable...**
+
+**In fewer words:** *it's time to pay attention to the future(s) being constructed on Ethereum*.
+
 **Introductions**
 ---
 - 	**Memewars** (internet-experiment / Ethereum dApp, *relies on a SKALE sidechain for tx throughput*) 
 
-	-  **A digital "gladiator arena" for *meme-battles*** (a platform for 24/7 *$viral sweepstakes*), **itself designed to go viral** through incentives + fun**
+	-  **A digital "gladiator arena" for *meme-battles*** (a platform for 24/7 *viral-content sweep$takes*), **itself designed to go viral** *with fun + incentives.*
 	
-	- ***Pays out $** (transparently):* **to site users** (*spectators / voters / contestants*) and  the**artists / devs / translators / promoters / potential-investors** who contribute to the *m_w universe* or otherwise 🚀 help m_w get big 🚀. M_W will launch as a *digital-collective* and *for-profit public-good* which redirects $$ from online-advertising-budgets to the (digital) wallets of meme-lovers / digital artists / OSS and digital-rights groups ($150B+ in ad-revenue, value derived from *your traffic* and *your memes (!)* will be "earned" by unfunny social-media megacorps in 2020).
-	-  **Ownership incentives for [ users / potential-investors / internet-figures ]** will be announced *before launch.*  [More details / get notified when beta launches](https://trello.com/b/gLY2a5Zc/wwwmemewars).
+	- ***Pays out $** (transparently):* **to site users** (*spectators / voters / contestants*) and **artists / coders / translators / promoters / potential investors** who contribute to the *m_w universe* or otherwise 🚀help m_w get big 🚀. 
 
-		
+	- 	**Context:** $150B+ in online-ad $ will be "earned" by social-media megacorps (ft. dusty vampire shareholders) in 2020. **Internet ads derive their value from *your (!) traffic, data, and memes*, yet TikTok / FB / $platform has never sent you a micro-crumb of $1$, or granted you a small share of site ownership. We could create a new...
+
+    - **Structure:** a *digital-collective* and *for-profit public-good*, which directs $ from online-advertising-campaigns to the (digital) wallets of meme-lovers / digital artists / open-internet causes / etc in a way that hasn't been attempted (or possible) before. **Ownership incentives for [ users / potential-investors / internet-figures ]** will be announced before launch.  [More info / get updates re: beta + launch details](https://trello.com/b/gLY2a5Zc/wwwmemewars).
 
 ---
 
-	
-- **SKALE** (*elastic* *sidechains* that enable Ethereum applications to scale)
+- **SKALE** (*elastic* *sidechains* which allow Ethereum dApps to scale)
 
 	-  **Unlocks an entire category of *use-cases* in "the space of possible dApps", especially Web3 (*platforms / structures / smart-contract systems* ) which promise some clear benefit (often: cost-savings / incentive-alignment / efficiency / data-control) over their closest "legacy" (Web 2 / centralized) *equivalents*, but which are *currently* infeasible *on mainnet Ethereum* due to network scalability limitations.** The terms below (`slow` and `expensive`) are used in a *relative* sense — m_w has massive respect and big <3 for an Ethereum that, *as-of-now,* is:
 	
 		-    ***Quickly Congested***: Maximum of 15  tx/s (transactions per second). A transaction or digital signature (or both) is behind most"Web3" interactions (sending a token, invoking a smart-contract function, etc).   *For context: Visa claimed [a capacity for 56,000 tx/s in 2015](https://usa.visa.com/dam/VCOM/download/corporate/media/visa-fact-sheet-Jun2015.pdf)*
-			-   ***Slow***: Minimum time needed to confirm a transaction is ~15 seconds (*blocktime*: average time-elapsed between finalized blocks. In other words: *longest possible duration before your tx can be "trusted" by other rational actors on Ethereum, after being sent from your computer*)
-			- ***Expensive***: on-chain data-storage (permanently storing: user-content, interaction-history, mappings of Ethereum addresses to roles and balances) and computation (for example: a *for-loop* over a hypothetical 1M+ collection of user-profiles, registered in a `mapping` belonging to the smart-contracts of a given "dApp") 
-
----
-**The crux of it / *tl;dr*?**
----
-
-***The Ethereum / "Web3" ecosystem grows more accessible (for developers and "mainstream" users alike) every day, and SKALE's elastic sidechains will only accelerate the Cambrian explosion of open-source creativity currently taking place on Ethereum.** When SKALE is combined with easy-onboarding solutions like Torus (generate a crypto-wallet from reddit account using OAuth --> easily buy ETH with debit-card), a number of limitations (re: "Ethereum onboarding" and *dApp scalability*) that plagued adoption in 2017 suddenly appear surmountable. *In short: it's time to pay attention to Web3 again*.
-
-**Thanks to SKALE and other OSS efforts, an entire category of *previously-infeasible dApps* are entering *the realm of the newly possible*. Such dApps will include: payments systems, co-ordination tools,  composable "money lego" functions,  sandboxes for experimenting with [ economics / governance / profit-structures / ... ].**  System-builders and hackers (present and future) stand to benefit from an ever-expanding ecosystem of Ethereum / "Web3" open-source-software tools + integrations for ideas involving Ethereum / Web3.
-  
-**Memewars** (a "digital arena for meme-battles and viral sweepstakes"  which directs ad-revenue $$$ to site-users / digital artists / etc.) **is  a single example of *a dApp (+DAO) enabled by SKALE***. When it launches (*soon™*), memewars will require high-throughput (tx/s) to support a *"meme economy"* where transactions encode [ *meme-battles* / <_format_> contests / voting-logic / stakeholder platform-governance / site ownership and revenues / player accounts and *$XP* ].
+		 
+		-   ***Slow***: Minimum time needed to confirm a transaction is ~15 seconds (*blocktime*: average time-elapsed between finalized blocks. In other words: *longest possible duration before your tx can be "trusted" by other rational actors on Ethereum, after being sent from your computer*)
+			 
+		- ***Expensive***: on-chain data-storage (permanently storing: user-content, interaction-history, mappings of Ethereum addresses to roles and balances) and computation (for example: a *for-loop* over a hypothetical 1M+ collection of user-profiles, registered in a `mapping` belonging to the smart-contracts of a given "dApp") 
 
 
 ## In-depth: SKALE + m_w Integration — (motivation, experience) 
@@ -52,13 +60,22 @@
 
 ## In-depth: Ethereum in 2020 (dev tools / reflections on "*Mastering Ethereum*" and building on Web3)
 
-### Dev-tools, dev-tools, dev-tools...
-In the context of Ethereum and "Web3", a number of OSS **dev tools** have been (and will continue to be) crucial in enabling novel (and increasingly user-facing) Ethereum "dApps" (decentralized applications). The challenge of creating a fully-functional Ethereum application (+ associated front-end) remains considerable today, but has fallen drastically (likely by an order of magnitude) and continues to trend downwards with every additional **dev tool** that *abstracts away* some confusing intricacy or detail involved in Ethereum / "Web3" development, allowing someone like me (a medium-smart AI) to enjoy well-documented tools that enable easy:
+### *dev-tools* and the next *hype-cycle*
+In the context of Ethereum and "Web3", a number of OSS **dev tools** have been (and will continue to be) crucial in enabling novel (and increasingly user-facing) Ethereum "dApps" (decentralized applications). The challenge of creating a fully-functional Ethereum application (+ associated user-interface) today remains considerable, but has fallen dramatically and continues to trend downwards with every **dev tool** that *abstracts away* some confusing detail involved in "blockchain development", allowing someone like me ( *Zoom University, class of 202? - and a medium-smart AI to boot*) to learn enough to create www.memewars in about 1 year of concerted effort (WIP - link to specific timeline of learning). This was only possible because I enjoyed many tutorials + resources + tools that sufficiently simplified:
 
- - Designing, Testing, and Deploying Smart Contracts
- - Onboarding of "mainstream" users to "dApps" that use cryptocurrency or digital signatures
+- Learning Ethereum (Solidity) Programming
+	-  CryptoZombies / "Mastering Ethereum" book / (WIP)
+ - Writing + Testing + Deploying (Solidity) Smart Contracts 
+	 - Truffle Suite / OpenZeppelin / (WIP)
+ - Onboarding of "mainstream" users to applications which use cryptocurrency and/or digital signatures 
+	 - Torus / 3Box / (WIP)
+- WIP
 
-M_W wants to give a shoutout (and big thanks) to the following OSS:
+M_W sends sincere thanks to the many (mentioned and unmentioned) open-source-software (OSS) packages that it relies on. Sustainable funding-mechanisms for OSS  is an area of interest / potential for those who view Ethereum as 'rails' or as 'infastructure' for a better (along some dimension) or *more sustainable* society in general. And for good reason — a lot of the world depends on OSS which is surprisingly resource-poor or whose maintenance falls on small teams who do not receive compensation *appropriate* for the importance of their software. M_W users will (eventually) be able to allocate some % of site-revenue to OSS / other dApps / <insert_cause_here> ("public-good"), but remains open to advice which might inform a (broad) effort to support OSS and defenders of the open-internet.
+
+
+
+A big THX to :
   - SKALE
   - OpenZeppelin
   - Torus 
@@ -75,7 +92,11 @@ M_W wants to give a shoutout (and big thanks) to the following OSS:
 ### Remaining hurdles to "mainstream" Web3 adoption (+ *hard to grok* areas) 
 - WIP
 
+### Misc Thoughts + Inspiration behind m_W
+
+We're just in time to witness the rise of the internet *as a jurisdiction* — a global technology infrastructure under-girded by math, generally contributing to a global megatrend (well-underway, but too-slow) of increasing prosperity, transparency, and justice. The aforementioned Cambrian explosion of [ technical / financial / artistic / ... ] creativity unleashed by Ethereum is further magnified  by the unprecendented gains that can be found in the alignment (and *engineering*) of incentives among individuals on the internet, even when anonymous / mutually-distrusting.
+
 ## Further Details / Explorations / Reading
 
-- For a more in-depth exploration of game-theoretic implications of Ethereum / the potential for large-scale incentive-alignment enforced by smart-contracts, [see Virgil Griffith's writing](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8).
+-  [see Virgil Griffith's writing](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) for an exploration of the game-theoretic implications of Ethereum: the potential for large-scale incentive-alignment enforced by smart-contracts and "deposit slashing" to dis-incentivize deviations from some *more-globally-optimal* action that would otherwise not be performed (due to *misaligned incentives* or *co-ordination failures*)
 - WIP

@@ -10,7 +10,10 @@
              /\______\                                                                                                                                                                  
              \/______/
 </pre>
+
+<div id="subtitle">
 # integration details  +   *devThoughts™*
+</div>
 
 ***tl;dr:** a future-internet is being built on Ethereum + accelerated by SKALE*
 ---

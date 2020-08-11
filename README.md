@@ -12,7 +12,7 @@
 </pre>
 # (integration + *devThoughts™*)
 
-***tl;dr:** it's time to pay attention to the future(s) being built on Ethereum*
+***tl;dr:** it's time to pay attention to the future(s) being constructed on Ethereum*
 ---
 
 **Thanks to SKALE and many other OSS efforts, an entire category of Ethereum applications are entering the realm of *newly possible dApps*. Possible use-cases include: payment systems, co-ordination and voting tools,  composable "money lego"  functions,  sandboxes for experimentation with [ economics / governance / profit-structures / ... ].**  Builders and hackers stand to benefit from an ever-expanding ecosystem of Ethereum / "Web3" open-source-software tools + integrations, which allow a "lone" developer to create powerful digital-systems.

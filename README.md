@@ -39,14 +39,6 @@
   
 **Memewars** (a "digital arena for meme-battles and viral sweepstakes"  which directs ad-revenue $$$ to site-users / digital artists / etc.) **is  a single example of *a dApp (+DAO) enabled by SKALE***. When it launches (*soon™*), memewars will require high-throughput (tx/s) to support a *"meme economy"* where transactions encode [ *meme-battles* / <_format_> contests / voting-logic / stakeholder platform-governance / site ownership and revenues / player accounts and *$XP* ].
 
-  
-
-
-
-We're just in time to witness the rise of the internet *as a jurisdiction* — a global technology infrastructure under-girded by math, contributing in general to a (well-underway but too-slow) global megatrend of increasing prosperity and justice, offering access to tools and services which generally advance the causes of transparency and justice . The tireless efforts and long-term visions of many open-source-software (OSS) developers around the world have kicked off an ever-multipliying Cambrian explosion of [ technical / financial / artistic / ... ] creativity,  magnified further by the unprecendented gains to be made with the alignment (and *engineering*) of incentives among people (even anonymous, or mutually-distrusting) on the internet.
-
- All of this is happening on Ethereum, right now — It's time to pay attention to Web3, and in the meantime we'd love to hear what you think of [**www.memewa.rs**](https://www.memewa.rs). 
-
 
 ## In-depth: SKALE + m_w Integration — (motivation, experience) 
 

@@ -1,4 +1,8 @@
-# www.memewa.rs <-> SKALE = ?
+# www.memewa.rs + SKALE = ??? 
+
+<div id="subtitle">
+# integration  +   *devThoughts™*
+</div>
 <pre>                           
                        __      __                 __                  ____        __  __      ______      __         ____                                          _       _       _    
  /'\_/`\              /\ \  __/\ \               /\ \                /\  _`\     /\ \/\ \    /\  _  \    /\ \       /\  _`\                _______               /'_`\   /'_`\   /'_`\  
@@ -11,9 +15,6 @@
              \/______/
 </pre>
 
-<div id="subtitle">
-# integration details  +   *devThoughts™*
-</div>
 
 ***tl;dr:** a future-internet is being built on Ethereum + accelerated by SKALE*
 ---

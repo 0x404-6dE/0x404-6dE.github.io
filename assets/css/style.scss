@@ -85,6 +85,7 @@ pre {
     border: 1px solid #e5e5e500;
     overflow-x: auto;
     color: white;
+  margin-bottom: 0px;
 }
 
 //
@@ -104,13 +105,12 @@ pre {
 }
 
 #integration--devthoughts {
-    font-size: 3em;
+font-size: 2em;
     background-color: black;
-//     color: white;
-  color: #00dcff;
+    color: #00dcff;
     padding: 25px;
-    margin-bottom: 0px;
-  opacity: .5;
+    margin-bottom: 20px;
+    opacity: .5;
 }
 
 #tldr-its-time-to-pay-attention-to-the-futures-being-built-on-ethereum {

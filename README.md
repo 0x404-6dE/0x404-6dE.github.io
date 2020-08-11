@@ -1,9 +1,9 @@
 # memewa.rs <--> SKALE  (integration + *a dev's thoughts*)
 <pre>                           
-		  __  __ ___ __  __ _____      ___   ___  ___     _     ___ _  __   _   _    ___ 
-		 |  \/  | __|  \/  | __\ \    / /_\ | _ \/ __|  _| |_  / __| |/ /  /_\ | |  | __|
-		 | |\/| | _|| |\/| | _| \ \/\/ / _ \|   /\__ \ |_   _| \__ \ ' <  / _ \| |__| _| 
-		 |_|  |_|___|_|  |_|___| \_/\_/_/ \_\_|_\|___/   |_|   |___/_|\_\/_/ \_\____|___|
+			  __  __ ___ __  __ _____      ___   ___  ___     _     ___ _  __   _   _    ___ 
+			 |  \/  | __|  \/  | __\ \    / /_\ | _ \/ __|  _| |_  / __| |/ /  /_\ | |  | __|
+			 | |\/| | _|| |\/| | _| \ \/\/ / _ \|   /\__ \ |_   _| \__ \ ' <  / _ \| |__| _| 
+			 |_|  |_|___|_|  |_|___| \_/\_/_/ \_\_|_\|___/   |_|   |___/_|\_\/_/ \_\____|___|
                  
 </pre>
 **Introductions**
@@ -28,10 +28,11 @@
 			-   ***Slow***: Minimum time needed to confirm a transaction is ~15 seconds (*blocktime*: average time-elapsed between finalized blocks. In other words: *longest possible duration before your tx can be "trusted" by other rational actors on Ethereum, after being sent from your computer*)
 			- ***Expensive***: on-chain data-storage (permanently storing: user-content, interaction-history, mappings of Ethereum addresses to roles and balances) and computation (for example: a *for-loop* over a hypothetical 1M+ collection of user-profiles, registered in a `mapping` belonging to the smart-contracts of a given "dApp") 
 
-**The crux of it — *tl;dr*?**
+---
+**The crux of it / *tl;dr*?**
 ---
 
-***The Ethereum / "Web3" ecosystem grows more accessible (for devs and "mainstream" users) every day, and SKALE's launch can only accelerate the ongoing Cambrian explosion of open-source creativity taking place on Ethereum.** When SKALE is combined with onboarding solutions like Torus (generate a crypto-wallet from $website account using OAuth --> buy ETH easily with debit-card or apple pay), a number of age-old limitations (re: "Ethereum onboarding" and *dApp scalability*) that have plagued adoption since 2017 suddenly appear surmountable. In short: it's time to pay attention to Web3.
+***The Ethereum / "Web3" ecosystem grows more accessible (for developers and "mainstream" users alike) every day, and SKALE's elastic sidechains will only accelerate the Cambrian explosion of open-source creativity currently taking place on Ethereum.** When SKALE is combined with easy-onboarding solutions like Torus (generate a crypto-wallet from reddit account using OAuth --> easily buy ETH with debit-card), a number of limitations (re: "Ethereum onboarding" and *dApp scalability*) that plagued adoption in 2017 suddenly appear surmountable. *In short: it's time to pay attention to Web3 again*.
 
 **Thanks to SKALE and other OSS efforts, an entire category of *previously-infeasible dApps* are entering *the realm of the newly possible*. Such dApps will include: payments systems, co-ordination tools,  composable "money lego" functions,  sandboxes for experimenting with [ economics / governance / profit-structures / ... ].**  System-builders and hackers (present and future) stand to benefit from an ever-expanding ecosystem of Ethereum / "Web3" open-source-software tools + integrations for ideas involving Ethereum / Web3.
   

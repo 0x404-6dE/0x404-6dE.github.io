@@ -1,4 +1,4 @@
-# www.memewa.rs <--> SKALE  (integration + *devThoughts™*)
+# www.memewa.rs <--> SKALE  
 <pre>                           
                        __      __                 __                  ____        __  __      ______      __         ____                                          _    
  /'\_/`\              /\ \  __/\ \               /\ \                /\  _`\     /\ \/\ \    /\  _  \    /\ \       /\  _`\                _______               /'_`\  
@@ -10,6 +10,7 @@
              /\______\                                                                                                                                                  
              \/______/
 </pre>
+# (integration + *devThoughts™*)
 
 ***tl;dr:** it's time to pay attention to the future(s) being built on Ethereum*
 ---

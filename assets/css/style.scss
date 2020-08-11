@@ -188,12 +188,17 @@ pre {
 #tldr-its-time-to-pay-attention-to-the-futures-being-constructed-on-ethereum {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-      margin-top: 20px;
+    justify-content: flex-start;
+    margin-top: 20px;
     margin-bottom: 20px;
     background: #ffff008f;
     padding: 20px;
+    padding-left: 25px;
     color: black;
+  
+  em {
+    font-size: 1.5em;
+  }
 }
 
   

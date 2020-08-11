@@ -450,7 +450,8 @@ pre {
 }
 
 #introducingName { 
-  font-size: 2.5em;
+  display: inline; // TODO
+  font-size: 2em;
   color: white;
   font-weight: 700;
 }

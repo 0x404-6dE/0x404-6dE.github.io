@@ -408,13 +408,27 @@ pre {
 }
 
 #introductions {
-    display: flex;
+  //MW:
+  
+//     display: flex;
+//     background-color: #999a1d;
+//     padding: 20px;
+//     font-size: 1.25em;
+//     background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
+//     background-size: contain;
+//     background-blend-mode: screen;
+  
+  // SKALE: (todo: target first introduction instance with M-W preset
+      display: flex;
     background-color: #999a1d;
     padding: 20px;
     font-size: 1.25em;
-    background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
-    background-size: contain;
-    background-blend-mode: screen;
+    background-image: url(https://findvectorlogo.com/wp-content/uploads/2019/11/skale-labs-vector-logo.png);
+    background-size: cover;
+    background-blend-mode: ;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    /* background-attachment: scroll; */
 }
 
 #introductionsTitle {

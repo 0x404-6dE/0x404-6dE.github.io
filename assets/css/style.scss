@@ -4,10 +4,12 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-//   display: flex;
-//   flex-direction: row;
+  display: flex;
+   flex-direction: row;
 // //   flex-direction: column;
 //   justify-content: space-evenly;
+  
+  justify-content: center;
 //   align-items: center;
   width: 100%;
   margin: 0 auto;
@@ -74,6 +76,7 @@ section {
 //     color: #000000bd;
 //     background-color: #0000ff80;
 //     padding: 25px;
+//   justify-self: center;
   padding-left: 25px;
   padding-right: 25px;
     color: #ffffff5c;

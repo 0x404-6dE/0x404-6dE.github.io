@@ -1,4 +1,5 @@
-# memewa.rs <--> SKALE  (integration + *a dev's thoughts*)
+
+# memewa.rs <--> SKALE  (integration details + *dev-thoughts*)
 <pre>                           
 			  __  __ ___ __  __ _____      ___   ___  ___     _     ___ _  __   _   _    ___ 
 			 |  \/  | __|  \/  | __\ \    / /_\ | _ \/ __|  _| |_  / __| |/ /  /_\ | |  | __|

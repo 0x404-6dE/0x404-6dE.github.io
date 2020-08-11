@@ -22,8 +22,8 @@
 **The Ethereum / "Web3" ecosystem grows more accessible** (for developers and "normal" users) every day, and **SKALE sidechains will accelerate a Cambrian explosion of technical creativity currently unfolding on Ethereum. When SKALE is combined with an onboarding solution like Torus** (*where users can generate / use an Ethereum-wallet by logging into a reddit / $website account, then buy cryptocurrency with a debit-card*), **a number of hurdles that have long plagued *mainstream Ethereum adoption*  suddenly appear surmountable...**
 
 ---
-<div class="introductions">
-**Introductions**
+<div id="introductions">
+Introductions
 </div>
 ---
 - 	**Memewars** (internet-experiment / Ethereum dApp, *relies on a SKALE sidechain for tx throughput*) 

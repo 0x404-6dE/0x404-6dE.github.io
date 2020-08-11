@@ -83,7 +83,8 @@ footer {
 p {
 padding: 10px;
     margin: 0px;
-    font-size: 1.5em;
+//     font-size: 1.5em;
+      font-size: 1.25em;
     background-color: #03ff2929;
 }
 
@@ -195,6 +196,8 @@ pre {
 // #tldr-its-time-to-pay-attention-to-the-futures-being-constructed-on-ethereum {
 // #tldr-futures-are-being-constructed-on-ethereum {
 # tldr-the-internets-future-is-being-constructed-on-ethereum-today {
+  em {
+    font-size: 1.25em;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -204,10 +207,11 @@ pre {
     padding: 20px;
     padding-left: 25px;
     color: black;
-  
-  em {
-    font-size: 1.25em;
   }
+  
+//   em {
+    
+//   }
 }
 
   

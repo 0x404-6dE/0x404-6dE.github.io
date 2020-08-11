@@ -272,16 +272,26 @@ pre {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-        align-items: center;
+    align-items: center;
     margin-top: 20px;
     margin-bottom: 20px;
     background: #ffff008f;
     padding: 10px;
     padding-left: 25px;
+    margin-bottom: 0px;
     color: black;
     
     strong {
       margin-right: 10px;
+//           color: #171941;
+    font-weight: 700;
+    font-size: 1.5em;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 7px;
+    background: #999a1d;
+    box-shadow: 6px 6px 12px #7d7e18, -6px -6px 12px #b5b622;
+      
     }
   }
   

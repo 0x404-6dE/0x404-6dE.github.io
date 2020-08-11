@@ -5,7 +5,7 @@ www.memewa.rs + SKALE = ???
 </div>
 
 <div id="subtitle">
-integration  +  devThoughts™
+integration details  +  devThoughts™
 </div>
 
 </div>
@@ -33,7 +33,10 @@ integration  +  devThoughts™
 ---
 <div id="introductions">
 <div id="introductionsTitle">
-Introduction: Memewars
+Introduction:
+<div id="introducingName">
+	Memewars
+	</div>
 </div>
 </div>	
 
@@ -57,7 +60,10 @@ internet-experiment / Ethereum dApp — relies on a SKALE sidechain for tx throu
 
 <div id="introductions">
 <div id="introductionsTitle">
-Introduction: SKALE
+Introduction:
+	<div id="introducingName">
+	SKALE
+	</div>
 </div>
 </div>	
 

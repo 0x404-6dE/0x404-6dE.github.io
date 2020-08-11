@@ -17,21 +17,33 @@ body {
   background-color: #171941;
 }
 
+@keyframes m_w_booting {
+//   from {background-color: red;}
+//   to {background-color: yellow;}
+    from {background-size: contain;}
+    to {background-size: cover;}
+   
+}
+
 header {
-//   display: flex;
-//   display: none;
-//   flex-direction: row;
-//   justify-content: center;
-//   align-items: center;
-  width: 20%;
-//   background-color: white; // TODO: tempo-rary
-  height: 200px;
-//   margin-right: 100px;
-//   background-image:url({{'../assets/mw_logo.png'|absolute_url}});
-  background-image:url({{'https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg'|absolute_url}});
-//   background-image: url('../assets/mw_logo.png');
+    width: 20%;
+    height: 200px;
+    background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
+    border-radius: 10px;
+    background: #171941;
+    box-shadow: 12px 12px 22px #121433, -12px -12px 22px #1c1f4f;
+    background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
+//     background-size: cover;
+    /* background-blend-mode: difference; */
+  background-size: contain;
+    /* background-blend-mode: difference; */
+    background-position: center;
+    /* transform: skew(53deg, -54deg); */
+    /* background-repeat-y: repeat; */
+    animation-name: m_w_booting;
+    animation-duration: 4s;
   
-  border-radius: 15px;
+  // border-radius: 15px;
 background: #171941;
 box-shadow:  12px 12px 22px #121433, 
              -12px -12px 22px #1c1f4f;

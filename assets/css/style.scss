@@ -27,12 +27,15 @@ body {
 
 header {
     width: 20%;
-    height: 200px;
+    height: 90%;
     background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
     border-radius: 10px;
     background: #171941;
     box-shadow: 12px 12px 22px #121433, -12px -12px 22px #1c1f4f;
-    background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
+  //   background-image:url({{'../assets/mw_logo.png'|absolute_url}});
+  background-image:url({{'../assets/mw_logo.png'|absolute_url}});
+   background-image:url({{'https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg''|absolute_url}});
+    background-image: url('https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg');
 //     background-size: cover;
     /* background-blend-mode: difference; */
   background-size: contain;
@@ -76,6 +79,10 @@ footer {
     display: none 
 }
 
+p {
+  background-color: #03ff2929;
+}
+
 a {
     color: #27ff00;
     text-decoration: none;
@@ -107,7 +114,7 @@ pre {
     overflow-x: auto;
     color: white;
   margin-bottom: 0px;
-      animation-name: m_w_engage_rainbow;
+     animation-name: m_w_engage_rainbow;
     animation-duration: 4s;
 }
 

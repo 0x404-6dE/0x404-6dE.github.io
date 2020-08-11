@@ -333,6 +333,11 @@ pre {
 }
 
 #introductions {
+    display: flex;
+    background-color: yellow;
+}
+
+#introductionsTitle {
     background-color: yellow;
     color: black;
     font-weight: 700;

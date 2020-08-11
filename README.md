@@ -38,7 +38,6 @@ integration  +  devThoughts™
 Introductions
 </div>
 </div>	
----
  **Memewars** (internet-experiment / Ethereum dApp, *relies on a SKALE sidechain for tx throughput*) 
 
 -**A digital "gladiator arena" for *meme-battles*** (a platform for 24/7 *viral-content sweep$takes*), **itself designed to go viral** *with fun + incentives.*
@@ -95,7 +94,6 @@ A big THX to :
 
 ### Learning Web3 + resources 
 - TODO
-
 
 ### Remaining hurdles 
 - TODO

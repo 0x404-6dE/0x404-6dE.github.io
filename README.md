@@ -47,10 +47,13 @@ Memewars
 </div>
 </h2>
 
-	-**A digital "gladiator arena" for *meme-battles*** (a platform for 24/7 *viral-content sweep$takes*), **itself designed to go viral** *with fun + incentives.*
-	-**Pays out $** (transparently) **to site users** (*spectators / voters / contestants*) and **artists / coders / translators / promoters / early partners** who contribute to the *m_w universe* or otherwise 🚀 help m_w get big  🚀. 
-	-**Context:** $150B+ in online-ad $ will be "earned" by social-media megacorps (ft. dusty vampire shareholders) in 2020. **Internet ads derive their value from *your (!) traffic, data, and memes*, yet TikTok / FB / $platform has never sent you a micro-crumb of a dollar, or granted you a microscopic share of ownership. We could create...
-	-**New Structures:** a *for-profit digital collective* that's also a *public-good*, directing $ from online-advertising-campaigns to the (digital) wallets of meme-lovers / digital artists / open-internet causes / "normal" people in a way that hasn't been tried (or possible) before. **Ownership incentives for [ users / potential-investors / internet-figures ]** will be announced before launch.  [More info / get updates re: beta + launch details](https://trello.com/b/gLY2a5Zc/wwwmemewars).
+- **A digital "gladiator arena" for *meme-battles*** (a platform for 24/7 *viral-content sweep$takes*), **itself designed to go viral** *with fun + incentives.*
+	
+- **Pays out $** (transparently) **to site users** (*spectators / voters / contestants*) and **artists / coders / translators / promoters / early partners** who contribute to the *m_w universe* or otherwise 🚀 help m_w get big  🚀.
+
+- **Context:** $150B+ in online-ad $ will be "earned" by social-media megacorps (ft. dusty vampire shareholders) in 2020. **Internet ads derive their value from *your (!) traffic, data, and memes*, yet TikTok / FB / $platform has never sent you a micro-crumb of a dollar, or granted you a microscopic share of ownership. We could create...
+
+- **New Structures:** a *for-profit digital collective* that's also a *public-good*, directing $ from online-advertising-campaigns to the (digital) wallets of meme-lovers / digital artists / open-internet causes / "normal" people in a way that hasn't been tried (or possible) before. **Ownership incentives for [ users / potential-investors / internet-figures ]** will be announced before launch.  [More info / get updates re: beta + launch details](https://trello.com/b/gLY2a5Zc/wwwmemewars).
 
 ---
 
@@ -61,10 +64,13 @@ SKALE
 	</div>
 </h2>
 
-  -**Unlocks an entire category of *use-cases* in "the space of possible dApps", especially Web3 (*platforms / structures / smart-contract systems* ) which promise some clear benefit (often: cost-savings / incentive-alignment / efficiency / data-control) over their closest "legacy" (Web 2 / centralized) *equivalents*, but which are *currently* infeasible *on mainnet Ethereum* due to network scalability limitations.** The terms below (`slow` and `expensive`) are used in a *relative* sense — m_w has massive respect and big <3 for an Ethereum that, *as-of-now,* is:
-    -***Quickly Congested***: Maximum of 15  tx/s (transactions per second). A transaction or digital signature (or both) is behind most"Web3" interactions (sending a token, invoking a smart-contract function, etc).   *For context: Visa claimed [a capacity for 56,000 tx/s in 2015](https://usa.visa.com/dam/VCOM/download/corporate/media/visa-fact-sheet-Jun2015.pdf)*
-    -***Slow***: Minimum time needed to confirm a transaction is ~15 seconds (*blocktime*: average time-elapsed between finalized blocks. In other words: *longest possible duration before your tx can be "trusted" by other rational actors on Ethereum, after being sent from your computer*)	 
-    -***Expensive***: on-chain data-storage (permanently storing: user-content, interaction-history, mappings of Ethereum addresses to roles and balances) and computation (for example: a *for-loop* over a hypothetical 1M+ collection of user-profiles, registered in a `mapping` belonging to the smart-contracts of a given "dApp") 
+- **Unlocks an entire category of *use-cases* in "the space of possible dApps", especially Web3 (*platforms / structures / smart-contract systems* ) which promise some clear benefit (often: cost-savings / incentive-alignment / efficiency / data-control) over their closest "legacy" (Web 2 / centralized) *equivalents*, but which are *currently* infeasible *on mainnet Ethereum* due to network scalability limitations.** The terms below (`slow` and `expensive`) are used in a *relative* sense — m_w has massive respect and big <3 for an Ethereum that, *as-of-now,* is:
+
+  - ***Quickly Congested***: Maximum of 15  tx/s (transactions per second). A transaction or digital signature (or both) is behind most"Web3" interactions (sending a token, invoking a smart-contract function, etc).   *For context: Visa claimed [a capacity for 56,000 tx/s in 2015](https://usa.visa.com/dam/VCOM/download/corporate/media/visa-fact-sheet-Jun2015.pdf)*
+  
+  - ***Slow***: Minimum time needed to confirm a transaction is ~15 seconds (*blocktime*: average time-elapsed between finalized blocks. In other words: *longest possible duration before your tx can be "trusted" by other rational actors on Ethereum, after being sent from your computer*)	 
+    
+  - ***Expensive***: on-chain data-storage (permanently storing: user-content, interaction-history, mappings of Ethereum addresses to roles and balances) and computation (for example: a *for-loop* over a hypothetical 1M+ collection of user-profiles, registered in a `mapping` belonging to the smart-contracts of a given "dApp") 
 
 ---
 

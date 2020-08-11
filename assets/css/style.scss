@@ -438,12 +438,20 @@ pre {
 }
 
 #introduction-instance-subtitle {
-    display: inline;
-//     font-size: .75em;
-      font-size: .65em;
+//     display: inline;
+// //     font-size: .75em;
+//       font-size: .65em;
+//     background-color: #00beff00;
+//     font-weight: 500;
+//     color: #ffffff3b;
+      display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+    font-size: .6em;
     background-color: #00beff00;
     font-weight: 500;
-    color: #ffffff3b;
+    color: #ffffffe0;
 }
 
 #elastic-sidechains {

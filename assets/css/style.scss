@@ -386,15 +386,15 @@ pre {
 }
 
 #introduction-instance-subtitle {
-    font-size: 1.5em;
-    background-color: #00beffad;
+    display: inline;
+    font-size: 1.25em;
+    background-color: #00beff00;
     font-weight: 500;
-//     padding: 10px;
-//     color: white;
-  color: #ffffff3b
+    color: #ffffff3b;
 }
 
 #elastic-sidechains {
+  display: inline;
    font-style: italic;
 }
 /*********************** ------------------------------ */

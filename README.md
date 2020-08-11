@@ -38,7 +38,7 @@ integration  +  devThoughts™
 Introductions
 </div>
 </div>	
- **Memewars** (internet-experiment / Ethereum dApp, *relies on a SKALE sidechain for tx throughput*) 
+ **### Memewars** (internet-experiment / Ethereum dApp, *relies on a SKALE sidechain for tx throughput*) 
 
 -**A digital "gladiator arena" for *meme-battles*** (a platform for 24/7 *viral-content sweep$takes*), **itself designed to go viral** *with fun + incentives.*
 -**Pays out $** (transparently) **to site users** (*spectators / voters / contestants*) and **artists / coders / translators / promoters / early partners** who contribute to the *m_w universe* or otherwise 🚀 help m_w get big  🚀. 
@@ -47,7 +47,7 @@ Introductions
 
 ---
 
-**SKALE** (*elastic* *sidechains* which allow Ethereum dApps to scale)
+**### SKALE** (*elastic* *sidechains* which allow Ethereum dApps to scale)
 
 -**Unlocks an entire category of *use-cases* in "the space of possible dApps", especially Web3 (*platforms / structures / smart-contract systems* ) which promise some clear benefit (often: cost-savings / incentive-alignment / efficiency / data-control) over their closest "legacy" (Web 2 / centralized) *equivalents*, but which are *currently* infeasible *on mainnet Ethereum* due to network scalability limitations.** The terms below (`slow` and `expensive`) are used in a *relative* sense — m_w has massive respect and big <3 for an Ethereum that, *as-of-now,* is:
   -***Quickly Congested***: Maximum of 15  tx/s (transactions per second). A transaction or digital signature (or both) is behind most"Web3" interactions (sending a token, invoking a smart-contract function, etc).   *For context: Visa claimed [a capacity for 56,000 tx/s in 2015](https://usa.visa.com/dam/VCOM/download/corporate/media/visa-fact-sheet-Jun2015.pdf)*
@@ -56,8 +56,11 @@ Introductions
 
 ---
 
-
-## In-depth: SKALE + m_w Integration — (motivation, experience) 
+<div id="introductions">
+<div id="introductionsTitle">
+In-depth: SKALE + m_w Integration — (motivation, experience) 
+</div>
+</div>	
 
 **Takeaway**: In addition to the technical gap filled by SKALE's platform, the team is composed of highly-skilled engineers who are a joy to collaborate with.  
 
@@ -67,7 +70,11 @@ Introductions
 - How does SKALE interact with <Torus, 3Box, Metamask, etc.> ?
 	- TODO 
 
-## In-depth: Ethereum in 2020 (dev tools / reflections on "*Mastering Ethereum*" and building on Web3)
+<div id="introductions">
+<div id="introductionsTitle">
+In-depth: Ethereum in 2020 (dev tools / reflections on "*Mastering Ethereum*" and building on Web3) 
+</div>
+</div>	
 
 ### *dev-tools* and the next *hype-cycle*
 In the context of Ethereum and "Web3", a number of OSS **dev tools** have been (and will continue to be) crucial in enabling novel (and increasingly user-facing) Ethereum "dApps" (decentralized applications). The challenge of creating a fully-functional Ethereum application (+ associated user-interface) today remains considerable, but has fallen dramatically and continues to trend downwards with every **dev tool** that *abstracts away* some confusing detail involved in "blockchain development", allowing someone like me ( *Zoom University, class of 202? - and a medium-smart AI to boot*) to learn enough to create www.memewars in about 1 year of concerted effort (TODO - link to specific timeline of learning). This was only possible because I enjoyed many tutorials + resources + tools that sufficiently simplified:

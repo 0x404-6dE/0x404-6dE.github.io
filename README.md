@@ -55,12 +55,15 @@ Memewars
 ---
 
 <h2 id="introduction-instance-title"> 
-SKALE 
+SKALE
+	
+<div id="introduction-instance-subtitle">
 (
 <div id="elastic-sidechains"> 
 elastic sidechains
 </div>
 — enables Ethereum dApps to scale)
+</div>
 </h2>
 
 -**Unlocks an entire category of *use-cases* in "the space of possible dApps", especially Web3 (*platforms / structures / smart-contract systems* ) which promise some clear benefit (often: cost-savings / incentive-alignment / efficiency / data-control) over their closest "legacy" (Web 2 / centralized) *equivalents*, but which are *currently* infeasible *on mainnet Ethereum* due to network scalability limitations.** The terms below (`slow` and `expensive`) are used in a *relative* sense — m_w has massive respect and big <3 for an Ethereum that, *as-of-now,* is:

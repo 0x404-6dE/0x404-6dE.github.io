@@ -18,7 +18,8 @@ body {
 }
 
 header {
-  display: flex;
+//   display: flex;
+  display: none;
   flex-direction: row;
   justify-content: center;
   align-items: center;
@@ -46,6 +47,10 @@ section {
 
 footer {
     display: none 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #15b3ff;
 }
 
 strong {

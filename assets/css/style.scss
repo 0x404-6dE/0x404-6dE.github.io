@@ -273,6 +273,19 @@ pre {
 
 /*********************** ------------------------------ */
 
+#subtitle {
+  display: inline;
+    font-size: 2em;
+    background-color: black;
+    color: #00dcff33;
+    /* padding: 25px; */
+//     padding-top: 10px;
+  padding-top: 25px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    margin-bottom: 0px;
+}
+
 #introductions {
     background-color: yellow;
     color: black;

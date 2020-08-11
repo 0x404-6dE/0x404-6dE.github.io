@@ -1,7 +1,7 @@
 # www.memewa.rs + SKALE = ??? 
 
 <div id="subtitle">
-# integration  +   *devThoughts™*
+integration  +  devThoughts™
 </div>
 <pre>                           
                        __      __                 __                  ____        __  __      ______      __         ____                                          _       _       _    

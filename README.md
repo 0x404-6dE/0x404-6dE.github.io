@@ -10,7 +10,7 @@
              /\______\                                                                                                                                                  
              \/______/
 </pre>
-# integration details + *devThoughts™*
+# integration details  +  *devThoughts™*
 
 ***tl;dr:** it's time to pay attention to the future(s) being constructed on Ethereum*
 ---

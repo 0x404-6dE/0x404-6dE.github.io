@@ -1,12 +1,15 @@
 <div id="postTop">
-	<div id="title">
-	www.memewa.rs + SKALE = ??? 
-	</div>
-
-	<div id="subtitle">
-	integration  +  devThoughts™
-	</div>
+	
+<div id="title">
+www.memewa.rs + SKALE = ??? 
 </div>
+
+<div id="subtitle">
+integration  +  devThoughts™
+</div>
+
+</div>
+
 <pre>    
                        __      __                 __                  ____        __  __      ______      __         ____                                          _       _       _    
  /'\_/`\              /\ \  __/\ \               /\ \                /\  _`\     /\ \/\ \    /\  _  \    /\ \       /\  _`\                _______               /'_`\   /'_`\   /'_`\  

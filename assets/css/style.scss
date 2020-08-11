@@ -407,17 +407,20 @@ pre {
     margin-bottom: 0px;
 }
 
-#introductions {
+#introductions:first-of-type {
   //MW:
   
-//     display: flex;
-//     background-color: #999a1d;
-//     padding: 20px;
-//     font-size: 1.25em;
-//     background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
-//     background-size: contain;
-//     background-blend-mode: screen;
+    display: flex;
+    background-color: #999a1d;
+    padding: 20px;
+    font-size: 1.25em;
+    background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
+    background-size: contain;
+    background-blend-mode: screen;
   
+}
+ 
+#introductions {
   // SKALE: (todo: target first introduction instance with M-W preset
       display: flex;
     background-color: #999a1d;

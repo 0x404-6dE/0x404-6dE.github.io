@@ -43,8 +43,9 @@ header {
     background-position: center;
     /* transform: skew(53deg, -54deg); */
     /* background-repeat-y: repeat; */
-    animation-name: m_w_booting;
-    animation-duration: 4s;
+//     animation-name: m_w_booting;
+//     animation-duration: 4s;
+  animation: m_w_booting 4s;
   
   // border-radius: 15px;
 background: #171941;
@@ -80,8 +81,10 @@ footer {
 }
 
 p {
-  font-size: 1.25em;
-  background-color: #03ff2929;
+padding: 10px;
+    margin: 0px;
+    font-size: 1.5em;
+    background-color: #03ff2929;
 }
 
 a {
@@ -123,7 +126,8 @@ pre {
 
 
 
-#wwwmemewars--skale-- {
+// #wwwmemewars--skale-- {
+  #wwwmemewars---skale-- {
 // //   background-color: white;
 // //   padding: 15px;
 // //   color: #020000;

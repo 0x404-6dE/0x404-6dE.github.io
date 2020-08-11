@@ -412,6 +412,9 @@ pre {
     background-color: #999a1d;
     padding: 20px;
     font-size: 1.25em;
+    background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
+    background-size: contain;
+    background-blend-mode: screen;
 }
 
 #introductionsTitle {
@@ -419,11 +422,10 @@ pre {
     color: #171941;
     font-weight: 700;
     font-size: 1.5em;
-    padding-left: 10px;
-    padding-right: 10px;
     border-radius: 7px;
     background: #999a1d;
     box-shadow: 6px 6px 12px #7d7e18, -6px -6px 12px #b5b622;
+  padding: 10px;
 }
 
 #introduction-instance-title {

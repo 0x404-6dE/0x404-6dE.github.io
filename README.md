@@ -19,7 +19,7 @@
   
 **Memewars is a "digital arena for meme-battles and viral sweepstakes"** which will direct ad-revenue $$$ to site-users  (participants / artists + contributors / etc.) **and represents a single example of *a dApp (+DAO) enabled by SKALE***. When it launches (*... soon™...*), a potentially-unbounded *meme economy* will require high-throughput (tx/s) to support and encode [ *meme-battles* / <_format_> contests / voting-logic / stakeholder platform-governance-by-token / site ownership and history-referencing / programmatic (conditional) distribution of roles + assets / player accounts and *$XP* / etc ].
 
-**The Ethereum / "Web3" ecosystem grows more accessible** (for developers and "normal" users) every day, **and SKALE sidechains will accelerate a Cambrian explosion of technical creativity currently unfolding on Ethereum. When SKALE is combined with an onboarding solution like Torus** (*where users can generate / use an Ethereum-wallet by logging into a reddit / $website account, then buy cryptocurrency with a debit-card*), **a number of hurdles that have long plagued *mainstream Ethereum adoption*  suddenly appear surmountable...**
+**The Ethereum / "Web3" ecosystem grows more accessible** (for developers and "normal" users) every day, and **SKALE sidechains will accelerate a Cambrian explosion of technical creativity currently unfolding on Ethereum. When SKALE is combined with an onboarding solution like Torus** (*where users can generate / use an Ethereum-wallet by logging into a reddit / $website account, then buy cryptocurrency with a debit-card*), **a number of hurdles that have long plagued *mainstream Ethereum adoption*  suddenly appear surmountable...**
 
 ---
 **Introductions**

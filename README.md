@@ -69,8 +69,8 @@ Introduction:
 
 <h2 id="introduction-instance-title"> 
 
-	<div id="introduction-instance-subtitle"> (
-		<div id="elastic-sidechains">elastic sidechains  </div> enable Ethereum dApps to scale 
+	<div id="introduction-instance-subtitle">
+		<div id="elastic-sidechains">elastic sidechains</div> enable Ethereum dApps to scale 
 	</div>
 </h2>
 

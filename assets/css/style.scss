@@ -105,7 +105,12 @@ strong {
 //   from {background-color: red;}
 //   to {background-color: yellow;}
     from {color: #ff5f01;}
-    to {background-size: #0195ff;}
+    to {color: #0195ff;}
+//     0%   {background-color:red; left:0px; top:0px;}
+//   25%  {background-color:yellow; left:200px; top:0px;}
+//   50%  {background-color:blue; left:200px; top:200px;}
+//   75%  {background-color:green; left:0px; top:200px;}
+//   100% {background-color:red; left:0px; top:0px;}
    
 }
 
@@ -118,8 +123,8 @@ pre {
     overflow-x: auto;
     color: white;
   margin-bottom: 0px;
-     animation-name: m_w_engage_rainbow;
-    animation-duration: 12s;
+     animation: m_w_engage_rainbow 12s infinite;
+//     animation-duration: 12s;
 }
 
 //

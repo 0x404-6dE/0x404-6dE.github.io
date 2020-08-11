@@ -407,14 +407,14 @@ pre {
     margin-bottom: 0px;
 }
 
-#introductions:first-of-type {
-  //MW:
+#introductionsSKALE {
+  //SKALE:
   
     display: flex;
     background-color: #999a1d;
     padding: 20px;
     font-size: 1.25em;
-    background-image:  url(https://findvectorlogo.com/wp-content/uploads/2019/11/skale-labs-vector-logo.png);
+    background-image:  url('https://images.prismic.io/skalelabs/eb94376c-4e95-4a9b-9999-bdf00cb8f053_Skale_Logo_Black.png?auto=compress,format');
     background-size: contain;
     background-blend-mode: screen;
   
@@ -448,11 +448,31 @@ pre {
 //     /* background-attachment: scroll; */
 // }
 
+#introductionsTitleSKALE {
+    /* background-color: #171941; */
+    color: #171941;
+    font-weight: 700;
+    font-size: 1.5em;
+  background-color: #0789c2;
+//     border-radius: 7px;
+//     background: #999a1d;
+//     box-shadow: 6px 6px 12px #7d7e18, -6px -6px 12px #b5b622;
+//   padding: 10px;
+  
+  border-radius: 6px;
+background: linear-gradient(145deg, #0793d0, #067baf);
+box-shadow:  5px 5px 12px #044765, 
+             -5px -5px 12px #0acbff;
+      padding: 15px;
+    margin: 5px;
+}
+
 #introductionsTitle {
     /* background-color: #171941; */
     color: #171941;
     font-weight: 700;
     font-size: 1.5em;
+  background-color: #0789c2;
 //     border-radius: 7px;
 //     background: #999a1d;
 //     box-shadow: 6px 6px 12px #7d7e18, -6px -6px 12px #b5b622;

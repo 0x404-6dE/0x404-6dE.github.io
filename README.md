@@ -23,10 +23,10 @@ integration details  +  devThoughts™
 </pre>
 
 
-***tl;dr:** a future-internet is being built on Ethereum + accelerated by SKALE*
+***tl;dr:** a future-internet is being built on Ethereum (+ accelerated by SKALE)*
 ---
 
-**Thanks to SKALE and many other open-source-software (OSS) efforts, an entire category of Ethereum dApps are entering *the realm of the newly possible*. Possible use-cases include: payment systems, co-ordination and decision-making tools,  composable "money lego functions",  sandboxes for experiments in [ economics / governance / profit-structures / ... ].**  Builders and hackers stand to benefit from an ever-expanding ecosystem of OSS [ Ethereum / "Web3" ] tools + integrations, which allow an individual developer to create powerful digital-systems composed of cryptographically-guaranteed open-source rule-sets + agreements.
+**Thanks to SKALE and many other open-source-software (OSS) efforts, an entire category of Ethereum dApps are entering *the realm of the newly possible*. Possible applications include: payment systems, co-ordination and decision-making tools,  composable "money lego functions",  sandboxes for experiments in [ economics / governance / profit-structures / ... ].**  Builders and hackers stand to benefit from an ever-expanding ecosystem of OSS [ Ethereum / "Web3" ] tools + integrations, which allow an individual developer to create powerful digital-systems composed of cryptographically-guaranteed open-source rule-sets + agreements.
   
 **Memewars is a "digital arena for meme-battles and viral sweepstakes" that will direct ad-revenue $$$ to site-users, and an member of the *previously infeasible dApp (+DAO)* category**. When a *scalability* solution like SKALE (allowing tx/s gains vs. *mainnet Ethereum* while retaining security) with a dead-easy onboarding solution like Torus** (* generate / use an Ethereum-wallet by logging into a reddit/fb/etc. account, and then easily buy cryptocurrency in-site with debit-card*), **a number of hurdles that have long plagued the promise of *mainstream Ethereum adoption* appear suddenly surmountable...**
 
@@ -58,8 +58,8 @@ internet-experiment / Ethereum dApp — relies on a SKALE sidechain for tx throu
 
 ---
 
-<div id="introductions">
-<div id="introductionsTitle">
+<div id="introductionsSKALE">
+<div id="introductionsTitleSKALE">
 Introduction:
 	<div id="introducingName">
 	SKALE

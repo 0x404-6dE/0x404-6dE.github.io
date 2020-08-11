@@ -78,6 +78,15 @@ strong {
   font-weight: 700;
 }
 
+pre {
+    /* padding: 8px 15px; */
+    background: #f8f8f800;
+    border-radius: 5px;
+    border: 1px solid #e5e5e500;
+    overflow-x: auto;
+    color: white;
+}
+
 //
 
 
@@ -102,6 +111,14 @@ strong {
     padding: 25px;
     margin-bottom: 0px;
   opacity: .5;
+}
+
+#tldr-its-time-to-pay-attention-to-the-futures-being-built-on-ethereum {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #ffff008f;
+    padding: 20px;
+    color: black;
 }
 
 #tldr-time-to-pay-attention-to-the-futures-being-built-on-ethereum {

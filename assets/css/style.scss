@@ -87,7 +87,7 @@ footer {
 }
 
 p {
-padding: 10px;
+padding: 20px;
     margin: 0px;
 //     font-size: 1.5em;
       font-size: 1.25em;
@@ -375,6 +375,12 @@ pre {
     border-radius: 7px;
     background: #999a1d;
     box-shadow: 6px 6px 12px #7d7e18, -6px -6px 12px #b5b622;
+}
+
+#introduction-instance-title {
+      font-size: 2em;
+    background-color: #00beffad;
+    font-weight: 600;
 }
 
 /*********************** ------------------------------ */

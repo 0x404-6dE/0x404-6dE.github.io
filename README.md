@@ -1,4 +1,4 @@
-# www.memewa.rs + SKALE  = ?
+# www.memewa.rs + SKALE = ?
 <pre>                           
                        __      __                 __                  ____        __  __      ______      __         ____                                          _    
  /'\_/`\              /\ \  __/\ \               /\ \                /\  _`\     /\ \/\ \    /\  _  \    /\ \       /\  _`\                _______               /'_`\  
@@ -48,26 +48,24 @@
 
 **Technical Details**:
 - the Web3 *tech-stack* behind m_w
-	- WIP
+	- TODO
 - How does SKALE interact with <Torus, 3Box, Metamask, etc.> ?
-	- WIP 
+	- TODO 
 
 ## In-depth: Ethereum in 2020 (dev tools / reflections on "*Mastering Ethereum*" and building on Web3)
 
 ### *dev-tools* and the next *hype-cycle*
-In the context of Ethereum and "Web3", a number of OSS **dev tools** have been (and will continue to be) crucial in enabling novel (and increasingly user-facing) Ethereum "dApps" (decentralized applications). The challenge of creating a fully-functional Ethereum application (+ associated user-interface) today remains considerable, but has fallen dramatically and continues to trend downwards with every **dev tool** that *abstracts away* some confusing detail involved in "blockchain development", allowing someone like me ( *Zoom University, class of 202? - and a medium-smart AI to boot*) to learn enough to create www.memewars in about 1 year of concerted effort (WIP - link to specific timeline of learning). This was only possible because I enjoyed many tutorials + resources + tools that sufficiently simplified:
+In the context of Ethereum and "Web3", a number of OSS **dev tools** have been (and will continue to be) crucial in enabling novel (and increasingly user-facing) Ethereum "dApps" (decentralized applications). The challenge of creating a fully-functional Ethereum application (+ associated user-interface) today remains considerable, but has fallen dramatically and continues to trend downwards with every **dev tool** that *abstracts away* some confusing detail involved in "blockchain development", allowing someone like me ( *Zoom University, class of 202? - and a medium-smart AI to boot*) to learn enough to create www.memewars in about 1 year of concerted effort (TODO - link to specific timeline of learning). This was only possible because I enjoyed many tutorials + resources + tools that sufficiently simplified:
 
 - Learning Ethereum (Solidity) Programming
-	-  CryptoZombies / "Mastering Ethereum" book / (WIP)
+	-  CryptoZombies / "Mastering Ethereum" book / (TODO: more)
  - Writing + Testing + Deploying (Solidity) Smart Contracts 
-	 - Truffle Suite / OpenZeppelin / (WIP)
+	 - Truffle Suite / OpenZeppelin / (TODO: more)
  - Onboarding of "mainstream" users to applications which use cryptocurrency and/or digital signatures 
-	 - Torus / 3Box / (WIP)
-- WIP
+	 - Torus / 3Box / (TODO: more)
+- TODO: more
 
-M_W sends sincere thanks to the many (mentioned and unmentioned) open-source-software (OSS) packages that it relies on. Sustainable funding-mechanisms for OSS  is an area of interest / potential for those who view Ethereum as 'rails' or as 'infastructure' for a better (along some dimension) or *more sustainable* society in general. And for good reason — a lot of the world depends on OSS which is surprisingly resource-poor or whose maintenance falls on small teams who do not receive compensation *appropriate* for the importance of their software. M_W users will (eventually) be able to allocate some % of site-revenue to OSS / other dApps / <insert_cause_here> ("public-good"), but remains open to advice which might inform a (broad) effort to support OSS and defenders of the open-internet.
-
-
+M_W sends sincere^jumbo thanks to the many (mentioned and unmentioned) open-source-software (OSS) packages that it relies on. Sustainable funding-mechanisms for OSS  is an area of interest / potential for those who view Ethereum as 'rails' or as 'infastructure' for a better (along some dimension) or *more sustainable* society in general. And for good reason — a lot of the world depends on OSS which is surprisingly resource-poor or whose maintenance falls on small teams who do not receive compensation *appropriate* for the importance of their software. M_W users will (eventually) be able to allocate some % of site-revenue to OSS / other dApps / <insert_cause_here> ("public-good"), but remains open to advice which might inform a (broad) effort to support OSS and defenders of the open-internet.
 
 A big THX to :
   - SKALE
@@ -75,16 +73,16 @@ A big THX to :
   - Torus 
   - 3box
   - Truffle Suite
-  - many more (WIP)
+  - TODO: more
 ---
 
 
 ### Learning Web3 + resources 
-- WIP
+- TODO
 
 
 ### Remaining hurdles 
-- WIP
+- TODO
 
 ### Misc Thoughts + Inspiration behind m_W
 
@@ -93,4 +91,4 @@ We're just in time to witness the rise of the internet *as a jurisdiction* — a
 ## Further Details / Explorations / Reading
 
 -  [see Virgil Griffith's writing](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8) for an exploration of the game-theoretic implications of Ethereum: the potential for large-scale incentive-alignment enforced by smart-contracts and "deposit slashing" to dis-incentivize deviations from some *more-globally-optimal* action that would otherwise not be performed (due to *misaligned incentives* or *co-ordination failures*)
-- WIP
+- TODO

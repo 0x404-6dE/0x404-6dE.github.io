@@ -101,8 +101,8 @@ strong {
 @keyframes m_w_engage_rainbow {
 //   from {background-color: red;}
 //   to {background-color: yellow;}
-    from {background-size: contain;}
-    to {background-size: cover;}
+    from {color: #ff5f01;}
+    to {background-size: #0195ff;}
    
 }
 
@@ -116,7 +116,7 @@ pre {
     color: white;
   margin-bottom: 0px;
      animation-name: m_w_engage_rainbow;
-    animation-duration: 4s;
+    animation-duration: 12s;
 }
 
 //

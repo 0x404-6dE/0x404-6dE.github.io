@@ -97,8 +97,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 strong {
-  color: #fff;
-  font-weight: 700;
+//   color: #fff;
+//   font-weight: 700;
+  font-size: 1.25em;
+      color: #fff;
+    font-weight: 500;
 }
 
 @keyframes m_w_engage_rainbow {

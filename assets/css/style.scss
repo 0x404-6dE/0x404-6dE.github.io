@@ -28,10 +28,10 @@ body {
 }
 
 header {
-//     width: 20%;
-     width: 0%;
+    width: 20%;
+//      width: 0%;
     height: 90%;
-    background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
+    background-image: url('https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg');
     border-radius: 10px;
     background: #171941;
     box-shadow: 12px 12px 22px #121433, -12px -12px 22px #1c1f4f;
@@ -257,13 +257,13 @@ pre {
 //     padding-left: 0px;
 //     color: #ff9901;
   
-      font-size: 1.35em;
+     font-size: 1.35em;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
     margin-top: 20px;
     margin-bottom: 0px;
-    background: #171941;
+    background: #17194100;
     padding-top: 10px;
     padding-bottom: 0px;
     padding-left: 0px;
@@ -290,9 +290,9 @@ pre {
     font-size: 1.5em;
     padding-left: 10px;
     padding-right: 10px;
-    border-radius: 7px;
-    background: #999a1d;
-    box-shadow: 6px 6px 12px #7d7e18, -6px -6px 12px #b5b622;
+//     border-radius: 7px;
+//     background: #999a1d;
+//     box-shadow: 6px 6px 12px #7d7e18, -6px -6px 12px #b5b622;
       
     }
   }
@@ -389,7 +389,8 @@ pre {
 
 #introduction-instance-subtitle {
     display: inline;
-    font-size: .75em;
+//     font-size: .75em;
+      font-size: .65em;
     background-color: #00beff00;
     font-weight: 500;
     color: #ffffff3b;

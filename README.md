@@ -35,15 +35,15 @@ integration  +  devThoughts™
 ---
 <div id="introductions">
 <div id="introductionsTitle">
-Introductions
+Introduction: Memewars
 </div>
 </div>	
 
 
 <h2 id="introduction-instance-title"> 
-Memewars 
+
 <div id="introduction-instance-subtitle">
-(internet-experiment / Ethereum dApp — relies on a SKALE sidechain for tx throughput) 
+internet-experiment / Ethereum dApp — relies on a SKALE sidechain for tx throughput 
 </div>
 </h2>
 
@@ -57,10 +57,16 @@ Memewars
 
 ---
 
+<div id="introductions">
+<div id="introductionsTitle">
+Introduction: SKALE
+</div>
+</div>	
+
 <h2 id="introduction-instance-title"> 
-SKALE 
+
 	<div id="introduction-instance-subtitle"> (
-		<div id="elastic-sidechains">elastic sidechains </div> — enables Ethereum dApps to scale) 
+		<div id="elastic-sidechains">elastic sidechains </div> enable Ethereum dApps to scale 
 	</div>
 </h2>
 

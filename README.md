@@ -1,4 +1,3 @@
-
 # www.memewa.rs <--> SKALE  (integration + *devThoughts™*)
 <pre>                           
                        __      __                 __                  ____        __  __      ______      __         ____                                          _    
@@ -12,7 +11,7 @@
              \/______/
 </pre>
 
-***tl;dr***
+***tl;dr:** *time to pay attention to the future(s) being built on Ethereum*
 ---
 
 **Thanks to SKALE and many other OSS efforts, an entire category of Ethereum applications are entering the realm of *newly possible dApps*. Possible use-cases include: payment systems, co-ordination and voting tools,  composable "money lego"  functions,  sandboxes for experimentation with [ economics / governance / profit-structures / ... ].**  Builders and hackers stand to benefit from an ever-expanding ecosystem of Ethereum / "Web3" open-source-software tools + integrations, which allow a "lone" developer to create powerful digital-systems.
@@ -21,7 +20,6 @@
 
 **The Ethereum / "Web3" ecosystem grows more accessible** (for developers and "normal" users) every day, **and SKALE sidechains will accelerate a Cambrian explosion of technical creativity currently unfolding on Ethereum. When SKALE is combined with an onboarding solution like Torus** (*where users can generate / use an Ethereum-wallet by logging into a reddit / $website account, then buy cryptocurrency with a debit-card*), **a number of hurdles that have long plagued *mainstream Ethereum adoption*  suddenly appear surmountable...**
 
-**In fewer words:** *it's time to pay attention to the future(s) being constructed on Ethereum*.
 
 **Introductions**
 ---
@@ -29,11 +27,11 @@
 
 	-  **A digital "gladiator arena" for *meme-battles*** (a platform for 24/7 *viral-content sweep$takes*), **itself designed to go viral** *with fun + incentives.*
 	
-	- ***Pays out $** (transparently):* **to site users** (*spectators / voters / contestants*) and **artists / coders / translators / promoters / potential investors** who contribute to the *m_w universe* or otherwise 🚀help m_w get big 🚀. 
+	- **Pays out $** (transparently) **to site users** (*spectators / voters / contestants*) and **artists / coders / translators / promoters / early partners** who contribute to the *m_w universe* or otherwise 🚀 help m_w get big  🚀. 
 
-	- 	**Context:** $150B+ in online-ad $ will be "earned" by social-media megacorps (ft. dusty vampire shareholders) in 2020. **Internet ads derive their value from *your (!) traffic, data, and memes*, yet TikTok / FB / $platform has never sent you a micro-crumb of $1$, or granted you a small share of site ownership. We could create a new...
+	- 	**Context:** $150B+ in online-ad $ will be "earned" by social-media megacorps (ft. dusty vampire shareholders) in 2020. **Internet ads derive their value from *your (!) traffic, data, and memes*, yet TikTok / FB / $platform has never sent you a micro-crumb of a dollar, or granted you a microscopic share of ownership. We could create...
 
-    - **Structure:** a *digital-collective* and *for-profit public-good*, which directs $ from online-advertising-campaigns to the (digital) wallets of meme-lovers / digital artists / open-internet causes / etc in a way that hasn't been attempted (or possible) before. **Ownership incentives for [ users / potential-investors / internet-figures ]** will be announced before launch.  [More info / get updates re: beta + launch details](https://trello.com/b/gLY2a5Zc/wwwmemewars).
+    - **A New Structure:** a *for-profit digital collective* that's also a *public-good*, directing $ from online-advertising-campaigns to the (digital) wallets of meme-lovers / digital artists / open-internet causes / "normal" people in a way that hasn't been tried (or possible) before. **Ownership incentives for [ users / potential-investors / internet-figures ]** will be announced before launch.  [More info / get updates re: beta + launch details](https://trello.com/b/gLY2a5Zc/wwwmemewars).
 
 ---
 
@@ -46,6 +44,7 @@
 		-   ***Slow***: Minimum time needed to confirm a transaction is ~15 seconds (*blocktime*: average time-elapsed between finalized blocks. In other words: *longest possible duration before your tx can be "trusted" by other rational actors on Ethereum, after being sent from your computer*)
 			 
 		- ***Expensive***: on-chain data-storage (permanently storing: user-content, interaction-history, mappings of Ethereum addresses to roles and balances) and computation (for example: a *for-loop* over a hypothetical 1M+ collection of user-profiles, registered in a `mapping` belonging to the smart-contracts of a given "dApp") 
+
 
 
 ## In-depth: SKALE + m_w Integration — (motivation, experience) 

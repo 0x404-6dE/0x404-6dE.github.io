@@ -38,7 +38,11 @@ integration  +  devThoughts™
 Introductions
 </div>
 </div>	
- **### Memewars** (internet-experiment / Ethereum dApp, *relies on a SKALE sidechain for tx throughput*) 
+
+
+<h2 id="introduction-instance-title"> 
+**Memewars** (internet-experiment / Ethereum dApp, *relies on a SKALE sidechain for tx throughput*) 
+</h2>
 
 -**A digital "gladiator arena" for *meme-battles*** (a platform for 24/7 *viral-content sweep$takes*), **itself designed to go viral** *with fun + incentives.*
 -**Pays out $** (transparently) **to site users** (*spectators / voters / contestants*) and **artists / coders / translators / promoters / early partners** who contribute to the *m_w universe* or otherwise 🚀 help m_w get big  🚀. 
@@ -47,7 +51,9 @@ Introductions
 
 ---
 
-**### SKALE** (*elastic* *sidechains* which allow Ethereum dApps to scale)
+<h2 id="introduction-instance-title"> 
+**SKALE** (*elastic* *sidechains* which allow Ethereum dApps to scale)
+</h2>
 
 -**Unlocks an entire category of *use-cases* in "the space of possible dApps", especially Web3 (*platforms / structures / smart-contract systems* ) which promise some clear benefit (often: cost-savings / incentive-alignment / efficiency / data-control) over their closest "legacy" (Web 2 / centralized) *equivalents*, but which are *currently* infeasible *on mainnet Ethereum* due to network scalability limitations.** The terms below (`slow` and `expensive`) are used in a *relative* sense — m_w has massive respect and big <3 for an Ethereum that, *as-of-now,* is:
   -***Quickly Congested***: Maximum of 15  tx/s (transactions per second). A transaction or digital signature (or both) is behind most"Web3" interactions (sending a token, invoking a smart-contract function, etc).   *For context: Visa claimed [a capacity for 56,000 tx/s in 2015](https://usa.visa.com/dam/VCOM/download/corporate/media/visa-fact-sheet-Jun2015.pdf)*

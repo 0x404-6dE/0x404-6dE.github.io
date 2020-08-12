@@ -476,6 +476,31 @@ box-shadow:  5px 5px 12px #044765,
   color: white;
   font-weight: 700;
 }
+
+#in-depth-section {
+    display: flex;
+    background-color: #0789c2;
+    padding: 15px;
+    font-size: 1.25em;
+//  background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
+    background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/header_logo.png);
+    background-size: contain;
+    /* background-position: center right; */
+    background-position-x: right;
+    background-position-y: center;
+    background-blend-mode: color;
+    background-repeat: no-repeat;
+}
+
+#in-depth-section-title {
+    font-weight: 700;
+    font-size: 1.5em;
+    background-color: #00ff78;
+    box-shadow:  5px 5px 12px #00d966, 
+             -5px -5px 12px #00ff8a;
+
+    padding: 10px;
+}
   
 
 

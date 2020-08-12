@@ -12,8 +12,8 @@
 //   justify-content: center;
 //   justify-content: space-evenly;
   
-  flex-direction: row;
-    justify-content: space-evenly;
+//   flex-direction: row;
+//   justify-content: space-evenly;
   width: 100%;
   margin: 0 auto;
 }
@@ -534,12 +534,19 @@ pre {
 
 @media (min-width: 320px) and (max-width: 465px) {
   
+   .wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
   header {
          display: none;
     width: 0%
   }
   
     section {
+     justify-self: center;
     width: 100%;
   }
   
@@ -553,13 +560,20 @@ pre {
 
 @media (min-width: 466px) and (max-width: 999px) {
   
+  .wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
    header {
      display: none;
     width: 0%
   }
   
     section {
-    width: 100%;
+     justify-self: center;
+     width: 95%;
   }
   
   pre {

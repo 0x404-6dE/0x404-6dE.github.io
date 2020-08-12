@@ -522,6 +522,10 @@ pre {
   
   section {
     width: 100%;
+    
+        #title {
+    font-size: 1.5em;
+  }
   }
   
   pre {
@@ -545,9 +549,17 @@ pre {
     width: 0%
   }
   
-    section {
+  section {
      justify-self: center;
     width: 100%;
+    
+    #title {
+    font-size: 1.75em;
+  }
+    
+          #subtitle {
+        font-size: 1.35em;
+      }
   }
   
   pre {
@@ -555,7 +567,7 @@ pre {
     overflow-x: auto;
     font-size: 0.45em;
     padding: 10px;
-}
+  }
 }
 
 @media (min-width: 466px) and (max-width: 999px) {
@@ -574,6 +586,14 @@ pre {
     section {
      justify-self: center;
      width: 95%;
+      
+          #title {
+            font-size: 2em;
+          }
+      
+      #subtitle {
+        font-size: 1.5em;
+      }
   }
   
   pre {

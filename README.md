@@ -23,7 +23,7 @@ integration details  +  devThoughts™
 </pre>
 
 
-***tl;dr:** a future-internet is being built on Ethereum (+ accelerated by SKALE)*
+***tl;dr:** a future-internet is being built on Ethereum (+ SKALE)*
 ---
 
 **Thanks to SKALE and many other open-source-software (OSS) efforts, an entire category of Ethereum dApps are entering *the realm of the newly possible*. Possible applications include: payment systems, co-ordination and decision-making tools,  composable "money lego functions",  sandboxes for experiments in [ economics / governance / profit-structures / ... ].**  Builders and hackers stand to benefit from an ever-expanding ecosystem of OSS [ Ethereum / "Web3" ] tools + integrations, which allow an individual developer to create powerful digital-systems composed of cryptographically-guaranteed open-source rule-sets + agreements.

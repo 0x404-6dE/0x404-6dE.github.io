@@ -73,9 +73,7 @@ Introduction:
 	</div>
 </h2>
 
-- **Unlocks an entire category of *use-cases* in "the space of possible dApps", especially Web3 (*platforms / structures / smart-contract systems* ) which promise some clear benefit (often: cost-savings / incentive-alignment / efficiency / data-control) over their closest "legacy" (Web 2 / centralized) *equivalents*, but which are *currently* infeasible *on mainnet Ethereum* due to network scalability limitations.** 
-
-The terms below (`slow` and `expensive`) are used in a *relative* sense — m_w has massive respect and big <3 for an Ethereum that, *as-of-now,* is:
+- **Unlocks an entire category of *use-cases* in "the space of possible dApps", especially Web3 (*platforms / structures / smart-contract systems* ) which promise some clear benefit (often: cost-savings / incentive-alignment / efficiency / data-control) over their closest "legacy" (Web 2 / centralized) *equivalents***, but which are *currently* infeasible *on mainnet Ethereum* due to network scalability limitations. The terms below (`slow` and `expensive`) are used in a *relative* sense — m_w has massive respect and big <3 for an **Ethereum that *currently* is**:
 
   - ***Quickly Congested***: Maximum of 15  tx/s (transactions per second). A transaction or digital signature (or both) is behind most"Web3" interactions (sending a token, invoking a smart-contract function, etc).   *For context: Visa claimed [a capacity for 56,000 tx/s in 2015](https://usa.visa.com/dam/VCOM/download/corporate/media/visa-fact-sheet-Jun2015.pdf)*
   

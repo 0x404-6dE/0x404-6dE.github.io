@@ -143,7 +143,8 @@ hr {
 }
 
 a {
-    color: #27ff00;
+//     color: #27ff00;
+  color: #00b8ff;
     text-decoration: none;
 }
 
@@ -408,16 +409,13 @@ pre {
 }
 
 #introductionsSKALE {
-  //SKALE:
-  
     display: flex;
-    background-color: #999a1d;
-    padding: 20px;
+    background-color: #ffffff;
+    padding: 15px;
     font-size: 1.25em;
-    background-image:  url('https://images.prismic.io/skalelabs/eb94376c-4e95-4a9b-9999-bdf00cb8f053_Skale_Logo_Black.png?auto=compress,format');
-    background-size: contain;
-    background-blend-mode: screen;
-  
+    background-image: url(https://images.prismic.io/skalelabs/eb94376c-4e95-4a9b-9999-bdf00cb8f053_Skale_Logo_Black.png?auto=compress,format);
+    background-size: cover;
+    background-blend-mode: darken;
 }
 
 #introductions {
@@ -426,7 +424,7 @@ pre {
     display: flex;
 //     background-color: #999a1d;
   background-color: #0789c2;
-    padding: 20px;
+    padding: 15px;
     font-size: 1.25em;
     background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
     background-size: contain;
@@ -449,21 +447,30 @@ pre {
 // }
 
 #introductionsTitleSKALE {
-    /* background-color: #171941; */
-    color: #171941;
+//     /* background-color: #171941; */
+//     color: #171941;
+//     font-weight: 700;
+//     font-size: 1.5em;
+//   background-color: #0789c2;
+// //     border-radius: 7px;
+// //     background: #999a1d;
+// //     box-shadow: 6px 6px 12px #7d7e18, -6px -6px 12px #b5b622;
+// //   padding: 10px;
+  
+//   border-radius: 6px;
+// background: linear-gradient(145deg, #0793d0, #067baf);
+// box-shadow:  5px 5px 12px #044765, 
+//              -5px -5px 12px #0acbff;
+//       padding: 15px;
+//     margin: 5px;
+ /* color: #171941; */
     font-weight: 700;
     font-size: 1.5em;
-  background-color: #0789c2;
-//     border-radius: 7px;
-//     background: #999a1d;
-//     box-shadow: 6px 6px 12px #7d7e18, -6px -6px 12px #b5b622;
-//   padding: 10px;
-  
-  border-radius: 6px;
-background: linear-gradient(145deg, #0793d0, #067baf);
-box-shadow:  5px 5px 12px #044765, 
-             -5px -5px 12px #0acbff;
-      padding: 15px;
+    background-color: #0789c200;
+    /* border-radius: 6px; */
+    background: linear-gradient(145deg, #0793d0, #067bafc4);
+    /* box-shadow: 5px 5px 12px #044765, -5px -5px 12px #0acbff; */
+    padding: 20px;
     margin: 5px;
 }
 

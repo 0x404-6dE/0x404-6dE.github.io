@@ -21,7 +21,7 @@
 body {
   padding: 25px;
   background-color: #171941;
-  transform: scale(0.9)
+//   transform: scale(0.9)
 }
 
 @keyframes m_w_booting {
@@ -498,7 +498,6 @@ box-shadow:  5px 5px 12px #044765,
     color: #504545;
     box-shadow:  5px 5px 12px #00d966, 
              -5px -5px 12px #00ff8a;
-
     padding: 10px;
 }
   
@@ -565,7 +564,7 @@ pre {
     overflow-x: auto;
     font-size: 0.55em;
     padding: 15px;
-}
+  }
 }
 
 @media (min-width: 1000px) and (max-width: 1366px) {
@@ -587,6 +586,10 @@ pre {
 }
 
 @media (min-width: 1367px) {
+  
+  body {
+    transform: scale(0.9)
+  }
   
    header {
     width: 18%;

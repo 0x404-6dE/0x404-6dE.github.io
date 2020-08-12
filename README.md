@@ -44,7 +44,8 @@ Introduction:
 <h2 id="introduction-instance-title"> 
 
 <div id="introduction-instance-subtitle">
-internet-experiment / Ethereum dApp — relies on a SKALE sidechain for tx throughput 
+internet-experiment / Ethereum dApp — relies on SKALE 
+	 
 </div>
 </h2>
 

@@ -421,14 +421,19 @@ display: flex;
 #introductions {
   //MW:
   
-    display: flex;
-//     background-color: #999a1d;
-  background-color: #0789c2;
+display: flex;
+    background-color: #0789c2;
     padding: 15px;
     font-size: 1.25em;
-    background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
+//     background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/assets/black_bg.jpg);
+      background-image: url(https://raw.githubusercontent.com/0x404-6dE/0x404-6dE.github.io/master/header_logo.png);
+ 
     background-size: contain;
-    background-blend-mode: screen;
+    /* background-position: center right; */
+    background-position-x: right;
+    background-position-y: center;
+background-blend-mode: hue;
+    background-repeat: no-repeat;
   
 }
  
@@ -469,14 +474,14 @@ display: flex;
     background-color: #0789c200;
     /* border-radius: 6px; */
     background: linear-gradient(145deg, #0793d0, #067bafc4);
-    /* box-shadow: 5px 5px 12px #044765, -5px -5px 12px #0acbff; */
+box-shadow: 5px 5px 12px #0000008f, -5px -5px 12px #00000000;
     padding: 20px;
     margin: 5px;
 }
 
 #introductionsTitle {
     /* background-color: #171941; */
-    color: #171941;
+    /* color: #171941; */
     font-weight: 700;
     font-size: 1.5em;
   background-color: #0789c2;
@@ -490,7 +495,8 @@ background: linear-gradient(145deg, #0793d0, #067baf);
 box-shadow:  5px 5px 12px #044765, 
              -5px -5px 12px #0acbff;
       padding: 15px;
-    margin: 5px;
+//     margin: 5px;
+  
 }
 
 #introduction-instance-title {

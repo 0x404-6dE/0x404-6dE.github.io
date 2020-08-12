@@ -543,29 +543,42 @@ pre {
 }
 
 @media (min-width: 0px) and (max-width: 319px) {
+  header {
+    display: none
+  }
+  
   pre {
     border: 5px solid #000000;
     overflow-x: auto;
-    font-size: 0.55em;
-    padding: 30px;
+    font-size: 0.35em;
+    padding: 10px;
 }
 }
 
 @media (min-width: 320px) and (max-width: 465px) {
+  
+  header {
+    display: none
+  }
   pre {
     border: 5px solid #000000;
     overflow-x: auto;
-    font-size: 0.55em;
-    padding: 30px;
+    font-size: 0.45em;
+    padding: 10px;
 }
 }
 
 @media (min-width: 466px) and (max-width: 768px) {
+  
+    header {
+    display: none
+  }
+  
   pre {
     border: 5px solid #000000;
     overflow-x: auto;
     font-size: 0.55em;
-    padding: 30px;
+    padding: 15px;
 }
 }
 
@@ -573,8 +586,8 @@ pre {
   pre {
     border: 5px solid #000000;
     overflow-x: auto;
-    font-size: 0.55em;
-    padding: 30px;
+    font-size: 0.65em;
+    padding: 20px;
 }
 }
 
@@ -582,7 +595,7 @@ pre {
   pre {
     border: 5px solid #000000;
     overflow-x: auto;
-    font-size: 0.55em;
+    font-size: 0.85em;
     padding: 30px;
 }
 }

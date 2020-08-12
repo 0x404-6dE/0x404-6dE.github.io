@@ -48,13 +48,10 @@ internet-experiment / Ethereum dApp — relies on a SKALE sidechain for tx throu
 </div>
 </h2>
 
-- **A digital "gladiator arena" for *meme-battles*** (a platform for 24/7 *viral-content sweep$takes*), **itself designed to go viral** *with fun + incentives.*
-	
-- **Pays out $** (transparently) **to site users** (*spectators / voters / contestants*) and **artists / coders / translators / promoters / early partners** who contribute to the *m_w universe* or otherwise 🚀 help m_w get big  🚀.
+- **A digital "gladiator arena" for *meme-battles*** (a platform for 24/7 *viral-content sweep$takes*), **itself designed to go viral** *with fun + incentives.* **Pays out $** (transparently) **to site users** (*spectators / voters / contestants*) and **artists / coders / translators / promoters / early partners** who contribute to the *m_w universe* or otherwise 🚀 help m_w get big  🚀.
+  - **Context:** $150B+ in online-ad $ will be "earned" by social-media megacorps (ft. dusty vampire shareholders) in 2020. **Internet ads derive their value from *your (!) traffic, data, and memes*, yet TikTok / FB / $platform has never sent you a micro-crumb of a dollar, or granted you a microscopic share of ownership. We could create...
 
-- **Context:** $150B+ in online-ad $ will be "earned" by social-media megacorps (ft. dusty vampire shareholders) in 2020. **Internet ads derive their value from *your (!) traffic, data, and memes*, yet TikTok / FB / $platform has never sent you a micro-crumb of a dollar, or granted you a microscopic share of ownership. We could create...
-
-- **New Structures:** a *for-profit digital collective* that's also a *public-good*, directing $ from online-advertising-campaigns to the (digital) wallets of meme-lovers / digital artists / open-internet causes / "normal" people in a way that hasn't been tried (or possible) before. **Ownership incentives for [ users / potential-investors / internet-figures ]** will be announced before launch.  [More info / get updates re: beta + launch details](https://trello.com/b/gLY2a5Zc/wwwmemewars).
+- **Structure:** a *for-profit digital collective* that's also a *public-good*, directing $ from online-advertising-campaigns to the (digital) wallets of meme-lovers / digital artists / open-internet causes / "normal" people in a way that hasn't been tried (or possible) before. **Ownership incentives for [ users / potential-investors / internet-figures ]** will be announced before launch.  [More info / get updates re: beta + launch details](https://trello.com/b/gLY2a5Zc/wwwmemewars).
 
 ---
 

@@ -85,7 +85,7 @@ Introduction:
 
 <div id="introductions">
 <div id="introductionsTitle">
-In-depth: SKALE + m_w Integration — (motivation, experience) 
+In-depth: SKALE Integration 
 </div>
 </div>	
 
@@ -113,7 +113,7 @@ In the context of Ethereum and "Web3", a number of OSS **dev tools** have been (
 	 - Truffle Suite / OpenZeppelin / (TODO: more)
  - Onboarding of "mainstream" users to applications which use cryptocurrency and/or digital signatures 
 	 - Torus / 3Box / (TODO: more)
-- TODO: more
+
 
 M_W sends sincere^jumbo thanks to the many (mentioned and unmentioned) open-source-software (OSS) packages that it relies on. Sustainable funding-mechanisms for OSS  is an area of interest / potential for those who view Ethereum as 'rails' or as 'infastructure' for a better (along some dimension) or *more sustainable* society in general. And for good reason — a lot of the world depends on OSS which is surprisingly resource-poor or whose maintenance falls on small teams who do not receive compensation *appropriate* for the importance of their software. M_W users will (eventually) be able to allocate some % of site-revenue to OSS / other dApps / <insert_cause_here> ("public-good"), but remains open to advice which might inform a (broad) effort to support OSS and defenders of the open-internet.
 
@@ -127,8 +127,7 @@ A big THX to :
 ---
 
 
-### Learning Web3 + resources 
-- TODO
+### Learning Web3 + resources (TODO)
 
 ### Misc Thoughts + Inspiration behind m_W
 

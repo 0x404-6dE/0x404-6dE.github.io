@@ -416,6 +416,7 @@ display: flex;
     background-image: url(https://images.prismic.io/skalelabs/eb94376c-4e95-4a9b-9999-bdf00cb8f053_Skale_Logo_Black.png?auto=compress,format);
     background-size: contain;
     background-blend-mode: saturation;
+  background-repeat: no-repeat;
 }
 
 #introductions {
@@ -475,8 +476,10 @@ background-blend-mode: hue;
     /* border-radius: 6px; */
     background: linear-gradient(145deg, #0793d0, #067bafc4);
 box-shadow: 5px 5px 12px #0000008f, -5px -5px 12px #00000000;
-    padding: 20px;
+//     padding: 20px;
+      padding: 22px;
     margin: 5px;
+  
 }
 
 #introductionsTitle {
@@ -491,7 +494,7 @@ box-shadow: 5px 5px 12px #0000008f, -5px -5px 12px #00000000;
 //   padding: 10px;
   
 //   border-radius: 6px;
-background: linear-gradient(145deg, #0793d0, #067baf);
+// background: linear-gradient(145deg, #0793d0, #067baf);
 box-shadow:  5px 5px 12px #044765, 
              -5px -5px 12px #0acbff;
 //       padding: 15px;

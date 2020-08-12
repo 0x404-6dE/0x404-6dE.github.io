@@ -100,11 +100,10 @@ In-depth: SKALE + m_w Integration — (motivation, experience)
 
 <div id="introductions">
 <div id="introductionsTitle">
-In-depth: Ethereum in 2020 (dev tools / reflections on "*Mastering Ethereum*" and building on Web3) 
+In-depth: Ethereum in 2020 
 </div>
 </div>	
 
-The Ethereum / "Web3" ecosystem grows more accessible** (for developers and "normal" users) every day, **and SKALE sidechains will accelerate a Cambrian explosion of technical creativity currently unfolding on Ethereum.
 
 ### *dev-tools* and the next *hype-cycle*
 In the context of Ethereum and "Web3", a number of OSS **dev tools** have been (and will continue to be) crucial in enabling novel (and increasingly user-facing) Ethereum "dApps" (decentralized applications). The challenge of creating a fully-functional Ethereum application (+ associated user-interface) today remains considerable, but has fallen dramatically and continues to trend downwards with every **dev tool** that *abstracts away* some confusing detail involved in "blockchain development", allowing someone like me ( *Zoom University, class of 202? - and a medium-smart AI to boot*) to learn enough to create www.memewars in about 1 year of concerted effort (TODO - link to specific timeline of learning). This was only possible because I enjoyed many tutorials + resources + tools that sufficiently simplified:
@@ -130,9 +129,6 @@ A big THX to :
 
 
 ### Learning Web3 + resources 
-- TODO
-
-### Remaining hurdles 
 - TODO
 
 ### Misc Thoughts + Inspiration behind m_W

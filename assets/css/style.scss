@@ -21,6 +21,7 @@
 body {
   padding: 25px;
   background-color: #171941;
+  transform: scale(0.9)
 }
 
 @keyframes m_w_booting {
@@ -464,6 +465,8 @@ box-shadow: 5px 5px 12px #0000008f, -5px -5px 12px #00000000;
 //     padding: 20px;
       padding: 22px;
     margin: 5px;
+  background-position-x: right;
+    background-position-y: center;
   
 }
 

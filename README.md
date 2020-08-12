@@ -83,18 +83,15 @@ Introduction:
 
 ---
 
-<div id="introductions">
-<div id="introductionsTitle">
-In-depth: SKALE Integration 
+<div id="in-depth-section">
+<div id="in-depth-section-title">
+In-depth: M_W <-> SKALE Integration 
 </div>
 </div>	
 
 **Takeaway**: In addition to the technical gap filled by SKALE's platform, the team is composed of highly-skilled engineers who are a joy to collaborate with.  
 
-**Technical Details**:
-- the Web3 *tech-stack* behind m_w
-	- TODO
-- How does SKALE interact with <Torus, 3Box, Metamask, etc.> ?
-	- TODO 
+**Technical Details: (WIP)**:
+
 
 

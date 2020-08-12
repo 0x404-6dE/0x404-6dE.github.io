@@ -550,7 +550,7 @@ pre {
 }
 }
 
-@media (min-width: 466px) and (max-width: 768px) {
+@media (min-width: 466px) and (max-width: 999px) {
   
    header {
     width: 0%
@@ -568,13 +568,13 @@ pre {
 }
 }
 
-@media (min-width: 769px) and (max-width: 1366px) {
+@media (min-width: 1000px) and (max-width: 1366px) {
   
    header {
     width: 18%;
   }
   
-    section {
+   section {
     width: 75%;
   }
   

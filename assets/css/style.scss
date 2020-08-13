@@ -525,7 +525,12 @@ pre {
     
         #title {
     font-size: 1.5em;
+              padding: 5px;
   }
+              #subtitle {
+        font-size: 1.25em;
+                    padding: 5px;
+      }
   }
   
   pre {
@@ -555,10 +560,12 @@ pre {
     
     #title {
     font-size: 1.75em;
+          padding: 5px;
   }
     
           #subtitle {
         font-size: 1.35em;
+                padding: 5px;
       }
   }
   
@@ -589,10 +596,15 @@ pre {
       
           #title {
             font-size: 2em;
+            padding-top: 10px;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-bottom: 0px;
           }
       
       #subtitle {
-        font-size: 1.5em;
+        font-size: 1.45em;
+            padding: 5px;
       }
   }
   

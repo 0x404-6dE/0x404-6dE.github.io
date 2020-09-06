@@ -26,14 +26,19 @@ integration details  +  devThoughts™
 ***tl;dr:** a future-internet is being built on Ethereum (+ SKALE)*
 ---
 
-**Thanks to SKALE and many other open-source-software (OSS) efforts, an entire category of Ethereum blockchain applications ("dApps") are entering *the realm of the newly possible*. *Previously-infeasible* software-ideas (and implicated industries) could include: payment systems, coordination and governance tools,  composable "money lego" financial functions, and sandboxes for experimentation in economics / governance / profit-structures.**  Future-builders and hackers stand to benefit from an ever-expanding ecosystem of OSS "Web3" tools and integrations, which allow a single developer to combine (or modify) open-source primitives into new digital-systems which gain (often surprising) power from (open-source / unbreakable / arbitrary)  *business logic and agreements* ("Smart Contracts") and the ability to "engineer" incentives and align any number of individuals / organizations (even if anonymous or mutually-distrusting) over the internet. 
-  
-**Memewars is a "digital arena for meme-battles and viral sweepstakes" that will pay ad-revenue $$$ to site-users, digital artists, and user-voted causes** — it's also an example of a *previously infeasible dApp* enabled by new Web3 infastructure. **When a SKALE sidechain (as dApp *scalability* solution)** (tx/s throughput gains vs. *main-network Ethereum*, while retaining security) **is combined with an easy-onboarding solution like Torus** (*generate / manage a crypto-wallet by logging into a pre-existing reddit / $website account, and buy cryptocurrency in-app with debit card*), **a number of hurdles that have long plagued the prospect of *mainstream Ethereum adoption* suddenly seem surmountable...**
+**Thanks to SKALE and many other open-source software (OSS) efforts, an entire category of Ethereum blockchain applications ("dApps") are entering *the realm of the newly possible*. Previously-infeasible software ideas (and implicated industries) might include: payment systems, coordination and governance tools,  composable "money lego" financial functions, and sandboxes for experimentation in economics / governance / profit-structures.**  Builders and hackers (of today and tomorrow) stand to benefit from an ever-expanding ecosystem of open-source "Web3" tools, financial structures and "functions", audited primitives and "scaffolding" contracts, "money lego" interoperability-by-default, abundant learning resources, active development, etc. 
+
+The natural (and unprecedented) result: a single developer can combine (or modify) open-source primitives into new digital-systems which gain (often surprising) power from (open-source / unbreakable / arbitrary)  *business logic and agreements* ("Smart Contracts") and the ability to "engineer" incentives and align any number of individuals / organizations (even if anonymous or mutually-distrusting) over the internet. 
+
+**Memewars is a *digital arena* for "meme-battles" and *24/7 viral-content sweepstakes* that will redirect online-ad revenue (US industry total: $150B+ in 2019) to site users, digital artists, and user-voted causes — it's also an example of a *previously infeasible dApp* enabled by SKALE and other recent advances in Web3 infastructure.**
+
+**When a SKALE sidechain (as dApp *scalability* solution — for tx/s throughput gains vs. *main-network Ethereum*)**, retaining the crucial security guarantees of "mainnet" Ethereum through SKALE's system of "bridge" (between "mainnet" <--> sidechain) smart-contracts,  **is combined with an easy onboarding (crypto log-in) solution like Torus** (*use a crypto-wallet by logging into pre-existing $<social_website> account, and seamlessly buy cryptocurrency through debit card / Apple Pay / etc.), **a number of hurdles that have long plagued the prospect of *mainstream adoption* for Ethereum suddenly seem surmountable...**
+
 
 ---
 <div id="introductions">
 <div id="introductionsTitle">
-Introduction:
+<!-- Introduction: -->
 <div id="introducingName">
 	Memewars
 	</div>
@@ -59,7 +64,7 @@ internet-experiment / Ethereum dApp — relies on SKALE
 
 <div id="introductionsSKALE">
 <div id="introductionsTitleSKALE">
-Introduction:
+<!-- Introduction: -->
 	<div id="introducingName">
 	SKALE
 	</div>
